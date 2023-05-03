@@ -1,1 +1,116 @@
-theme: jekyll-theme-modernist
+# Configuración de Jekyll
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title.html
+
+# Configuración del sitio
+title: Laboratorio de Investigación
+description: Sitio web del Laboratorio de Investigación
+url: https://nombre-de-usuario.github.io/laboratorio-de-investigacion/
+baseurl: /laboratorio-de-investigacion
+
+# Menú de navegación
+nav:
+  - title: Inicio
+    url: /
+  - title: Investigadores
+    url: /investigadores/
+  - title: Proyectos
+    url: /proyectos/
+  - title: Publicaciones
+    url: /publicaciones/
+  - title: Contacto
+    url: /contacto/
+
+# Configuración de plugins
+plugins:
+  - jekyll-feed
+
+# Archivos de configuración
+_config.yml
+Gemfile
+Gemfile.lock
+.gitignore
+
+# Estructura de carpetas
+laboratorio-de-investigacion/
+  _data/
+    investigadores.yml
+    proyectos.yml
+    publicaciones.yml
+  _includes/
+    head.html
+    header.html
+    footer.html
+  _layouts/
+    default.html
+  _posts/
+    2023-05-02-bienvenidos.md
+  assets/
+    css/
+      style.css
+    img/
+      logo.png
+  investigadores/
+    index.html
+    investigador1.html
+    investigador2.html
+  proyectos/
+    index.html
+    proyecto1.html
+    proyecto2.html
+  publicaciones/
+    index.html
+    publicacion1.html
+    publicacion2.html
+  contacto/
+    index.html
+
+# Archivo index.html (página de inicio)
+---
+layout: default
+title: Bienvenidos al Laboratorio de Investigación
+---
+
+<div class="container">
+  <h1>Bienvenidos al Laboratorio de Investigación</h1>
+  <p>Descripción breve del laboratorio.</p>
+  <a href="/contacto/" class="btn btn-primary">Contacto</a>
+</div>
+
+# Archivo _data/investigadores.yml (datos de los investigadores)
+- name: Investigador 1
+  bio: Descripción del investigador 1.
+  photo: /assets/img/investigador1.png
+- name: Investigador 2
+  bio: Descripción del investigador 2.
+  photo: /assets/img/investigador2.png
+
+# Archivo investigadores/index.html (página de investigadores)
+---
+layout: default
+title: Investigadores
+---
+
+<div class="container">
+  <h1>Investigadores</h1>
+  {% for investigador in site.data.investigadores %}
+    <div class="card">
+      <img src="{{ investigador.photo }}" alt="{{ investigador.name }}" class="card-img-top">
+      <div class="card-body">
+        <h2>{{ investigador.name }}</h2>
+        <p>{{ investigador.bio }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+# Archivo _data/proyectos.yml (datos de los proyectos)
+- title: Proyecto 1
+  description: Descripción del proyecto 1.
+  link: /proyectos/proyecto1.html
+- title: Proyecto 2
+  description: Descripción del proyecto 2.
+  link: /proyectos/proyecto2.html
+
+# Archivo proyectos
