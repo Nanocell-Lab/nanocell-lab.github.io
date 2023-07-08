@@ -1,7 +1,7 @@
-- name: Genetic and molecular mechanisms of treatment resistance in DLBCL
+- name: Elucidating the role of membrane transporters in cellular adaptation to the tumor microenvironment from gastric cancer
   description: >
     Gastric cancer is one of the deadliest cancers in the world and requires your attention due to the absence of early biomarkers and the difficulty of predicting its tumor progression. The complexity of the SN is related to the high intratumoral heterogeneity (ITH) at the regional or spatial level, represented by the genotypic diversity of the gastric cancer cell (GCC) at the inter- and intratumoral level, manifesting differential adaptation capacities against the tumor microenvironment (TEM). The GCCs could alter the nutritional conditions of their environment by reprogramming the metabolism of carbohydrates, lipids, and amino acids, generating resource deprivation for the non-cancerous cells of their TEM. The transporter proteins are a metabolic pivot, directly defining the concentrations of metabolites in the TEM and in the subcellular distribution. The role of transporters in these adaptive processes is beginning to be revisited, where hexose transporters, such as glucose facilitative transporter 1 (GLUT1), are associated with diagnostic strategies and are a classic marker of cancer progression. However, the role of other hexose transporters, their expression levels, mutational profiles, and the possibility of identifying new adaptation mechanisms to TEM restrictions. Finally, investigating these processes allows us to project ourselves towards the translation of this information in the development of new immunological therapies directed with neo-antigens from transporters, the design of therapies that directly affect the transporters, the development of subcellular therapies and the exploration of the development of an index of GC tumor progression based on multi-omics profiles associated with hexose metabolism.
-  funding: Fondecyt Regular 2024 Application
+  funding: Not Available
   collaborators: Felipe Zúñiga, Luis Bustamamante, Alejandro Godoy, and Alex Digenova
   assignees: David Muñoz
   photo: projects/dhitsig.png
@@ -47,31 +47,4 @@
   collaborators: Christian Steidl, David Scott, Nathalie Johnson
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
   photo: projects/DLBCL_Evolution.png
-
-- name: Circulating Tumour DNA as a biomarker in non-Hodgkin lymphoma
-  description: >
-    This project aims to develop a novel way of monitoring patients with lymphoma and find a new immunotherapy regimen
-    that would be effective in patients that are not cured with conventional chemotherapy. They will first genetically
-    profile the tumours to determine at which time point they become resistant. They will then determine how these
-    lymphomas evade immune detection and test if targeting these evasion strategies, i.e. "harnessing the immune response"
-    is successful at eradicating chemo-resistant lymphoma.
-  funding: CIHR
-  collaborators: Christian Steidl, Nathalie Johnson
-  assignees: Miguel Alcaide, Stephen Yu, Chris Rushton
-  photo: projects/Figure_1_amplicon.png
-  
-- name: Comprehensive proteogenomic characterization of mantle cell lymphoma (MCL)
-  description: >
-    Mantle cell lymphoma is a rare cancer that derives from B lymphocytes in the periphery (mantle zone)
-    of the germinal centre. MCL is most often diagnosed at stage 3 or 4 and is typically aggressive although some patients have an indolent form of the disesae.
-    Only 30-40% of patients with advanced disease achieving a complete response to frontline treatments (R-bendamustine).
-    Heterogeneous clinical response is partially attributable to observable variations in morphology, immunophenotype and proliferative capacity;
-    however, there is little known about the relationship between genetic features and variation in phenotype or response to specific treatment regimens.
-    Through a meta-analysis of in-house and existing exome sequencing data, our group has identified multiple novel driver mutations in MCL including some that associate with high or low proliferation.
-    To more completely ascertain the mutations that lead to lymphomagenesis in MCL, we are performing an integrative proteogenomic characterization of MCL tumours using a combination of whole genome sequencing, RNA-seq and shotgun proteomics.
-    We will are using these data to identify novel coding and non-coding (i.e. regulatory) driver mutations that affect the natural history of MCL including treatment response.
-  funding: Terry Fox Research Institute
-  collaborators: Marco Marra, David Scott, Diego Villa
-  assignees: Prasath Pararajalingam, Krysta Coyle
-  photo: projects/mcl_oncoplot.png
 
