@@ -1,28 +1,9 @@
 - name: Genetic and molecular mechanisms of treatment resistance in DLBCL
   description: >
-    Non-Hodgkin lymphomas (NHL) represent the sixth most commonly diagnosed
-    type of cancer in Canada with diffuse large B-cell lymphoma (DLBCL) being the most prevalent.
-    DLBCL patients exhibit variable responses to available therapies such
-    as R-CHOP. Some biomarkers beginning to enter clinical trials rely on
-    gene expression signatures to identify high-risk cases.
-    For example, DLBCL comprises two cell-of-origin (COO) subgroups with
-    activated B-cell (ABC) cases typically having worse prognosis than
-    germinal centre B-cell (GCB) cases.
-    Therapeutics that exploit molecular features unique to each subgroup
-    are being actively pursued but up-front identification of patients
-    unlikely to achieve a durable response remains a challenge.
-    Although existing methods can identify specific prognostic gene
-    expression features, these capture only some of the clinical
-    heterogeneity and require tumour RNA, which is not always available.
-    Using comprehensive genomic analyses and by integrating mutation and
-    expression data from over 2000 DLBCL tumours, we seek novel molecular
-    features that are associated with treatment resistance in DLBCL.
-    The ultimate goal of this work is to develop new predictive and
-    prognostic biomarkers and identify new therapeutic targets for
-    treatment-resistant DLBCLs.
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Laura Hilton, Jeffrey Tang, Miguel Alcaide, Aixiang Jiang
+    Gastric cancer is one of the deadliest cancers in the world and requires your attention due to the absence of early biomarkers and the difficulty of predicting its tumor progression. The complexity of the SN is related to the high intratumoral heterogeneity (ITH) at the regional or spatial level, represented by the genotypic diversity of the gastric cancer cell (GCC) at the inter- and intratumoral level, manifesting differential adaptation capacities against the tumor microenvironment (TEM). The GCCs could alter the nutritional conditions of their environment by reprogramming the metabolism of carbohydrates, lipids, and amino acids, generating resource deprivation for the non-cancerous cells of their TEM. The transporter proteins are a metabolic pivot, directly defining the concentrations of metabolites in the TEM and in the subcellular distribution. The role of transporters in these adaptive processes is beginning to be revisited, where hexose transporters, such as glucose facilitative transporter 1 (GLUT1), are associated with diagnostic strategies and are a classic marker of cancer progression. However, the role of other hexose transporters, their expression levels, mutational profiles, and the possibility of identifying new adaptation mechanisms to TEM restrictions. Finally, investigating these processes allows us to project ourselves towards the translation of this information in the development of new immunological therapies directed with neo-antigens from transporters, the design of therapies that directly affect the transporters, the development of subcellular therapies and the exploration of the development of an index of GC tumor progression based on multi-omics profiles associated with hexose metabolism.
+  funding: Fondecyt Regular 2024 Application
+  collaborators: Felipe Zúñiga, Luis Bustamamante, Alejandro Godoy, and Alex Digenova
+  assignees: David Muñoz
   photo: projects/dhitsig.png
 
 - name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
@@ -94,68 +75,3 @@
   assignees: Prasath Pararajalingam, Krysta Coyle
   photo: projects/mcl_oncoplot.png
 
-- name: Identification and functional characterization of recurrent non-coding mutations in NHLs
-  description: >
-       The list of protein-coding drivers identified through sequencing in DLBCL
-       has begun to saturate and yet there remains a gap in our understanding
-       of how these genetic alterations contribute to the
-       transcriptional differences underlying known prognostic signatures and molecular subgroups.
-       For example, dysregulation of NF-κB is the hallmark feature of ABC
-       DLBCL but many ABC cases appear to lack the common driver mutations
-       that are known to promote NF-κB. We are seeking driver mutations
-       that contribute to some features of NHLs.
-       We use data-driven comprehnsive methods that allow identification of
-       non-coding SSMs with a regulatory effect in cis or trans on
-       genes/proteins relevant to malignancy.
-  funding: Terry Fox Research Institute, CIHR
-  collaborators: Christian Steidl, Tim Audas, Peter Unrau
-  assignees: Sarah Arthur, Krysta Coyle, Matthew Nguyen, Aixiang Jiang
-  photo: projects/NFKBIZ_overview_cropped.png
-
-- name: Comprehensive characterization of endemic and sporadic Burkitt lymphoma
-  description: >
-    Burkitt lymphoma (BL) is currently classified as one of three clinical
-    variants: endemic BL, sporadic BL, and HIV-associated BL.
-    The endemic variant is primarily diagnosed in sub-Saharan Africa and is
-    epidemiologically associated with the Epstein–Barr virus (EBV) and
-    malaria infection; although, the role of these pathogens in promoting
-    the formation of BL remains unclear.
-    On the other hand, sporadic BL is diagnosed outside of malaria-endemic
-    areas, with only a minority of cases being EBV-positive (10-30%).
-    This project seeks to generate high-throughput whole genome and
-    transcriptome sequencing data from over 100 BL tumours in order to
-    elucidate the genetic and molecular underpinnings of the disease.
-    With this project, we aim to refine the mutational landscape of BL to
-    facilitate the development of less toxic targeted therapies.
-    We also plan on investigating the oncogenic role of EBV and whether it may
-    serve as a better criterion for disease classification than the current
-    system relying on geographic origin.
-  funding: National Cancer Institute, Foundation for Burkitt Lymphoma Research
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Bruno Grande, Aixiang Jiang
-  photo: projects/blgsp_ash_2017.jpg
-  
-- name: Genetic characterization of HIV-associated DLBCL
-  description: >
-    Diffuse large B-cell lymphoma is a common HIV-associated cancer.
-    The genetic and molecular aetiology of HIV+ DLBCL has not been thoroughly explored. 
-    This study seeks to characterize HIV+ DLBCL through comprehensive whole genome, 
-    transcriptome, and miRNA sequencing. Enhancing our understanding of the molecular features of these 
-    tumours, particularly those that distinguish them from other DLBCLs, may translate into improved
-    therapies for a growing population of patients afflicted with both HIV and cancer. 
-  funding: National Cancer Institute
-  collaborators: Marco Marra, Louis Staudt
-  assignees: Nicole Thomas, Bruno Grande
-  photo: 
-
-- name: Genetic characterization of canine B-cell lymphomas
-  description: >
-    Cancer is the leading cause of premature death in pet dogs and non-Hodgkin lymphomas are the most common cancer in most dog breeds.
-    Unlike human lymphomas with similar histopathology, canine B-cell lymphomas (cBCL) are incurable and exhibit an agressive clinical course.
-    We are sequencing cBCLs to identify driver mutations that contribute to this cancer in a variety of dog breeds. 
-    We identified TRAF3 as a novel tumour suppressor in cBCL and are pursuing additional candidate genes. 
-    We are also exploring plasma from cBCLs to evaluate the utility of ctDNA as a biomarker and non-invasive source of tumour DNA in canine lymphoma. 
-  funding: NSERC
-  collaborators:
-  assignees: Kevin Bushell, Jack Hillman, Matt Cheung
-  photo: projects/TRAF3.png

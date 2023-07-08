@@ -1,17 +1,16 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Cancer`s Molecular Dynamics Laboratory at Universidad de Concepción - Chile
+lab_name: CMDL Laboratory
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Alexis Salas and CMD laboratory
+institution: UDEC 
+email: alsalas@udec.cl
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  The CMD Laboratory combines molecular biology, analysis of molecular dynamics, and bioinformatics methodologies for the design, analysis, and techniques for the validation of the biological hypotheses.
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://nanocell-lab.github.io"
+twitter_username: alsalas
+github_username:  alsalas
 images_dir: "/images/"
 
 # Build settings
