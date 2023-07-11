@@ -1,28 +1,17 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Alexis M. Salas-Burgos
   is_pi: True
   is_current: True
   position: Associate Professor
-  orcid:  https://orcid.org/0000-0003-2932-7800
-  scholar: https://scholar.google.ca/citations?user=IDau0mkAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Ryan_Morin
-  github: https://github.com/rdmorin
-  twitter: https://twitter.com/morinryan
+  orcid:  https://orcid.org/0000-0002-6577-9970
+  scholar: https://scholar.google.com/citations?hl=en&user=32ol-SYAAAAJ
+  researchgate: https://www.researchgate.net/profile/Alexis-Salas-Burgos
+  github: https://github.com/alsalas
+  twitter: https://twitter.com/alsalas7
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
+    I am in the department of <a href="https://cienciasbiologicasudec.cl/departamentos/farmacologia/">Pharmacology</a> at
+    <a href="http://www.udec.cl">Universidad de Concpción</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
+    Alexis Salas is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a biochemist and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology, he has completed diplomas in Innovation and Technological Management (2014), Higher Education (2015) and Creative Industries (2016). Alexis Salas is director of the Science Mission Node (2020-2023), Territorial Impact Acceleration Nodes of the CTCI - ANID, where this Node is a public-private civil organization for communication and articulation of Science with the Territory for sustainable development with mission-based planning. 
+    His skills are in molecular biology and computational biology, he is a computer programmer and develops software for multiomics data analysis and computer aided drug design.
 
   photo: team/Morin_headshot_2019.gif
 
