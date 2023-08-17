@@ -1,5 +1,3 @@
-# Código para desarrollar el sitio web del laboratorio Nanocell basado en el tema de Jekyll: Guild
-
 ## Cancer`s Molecular Dynamics Laboratory (CMDL)
 
 The laboratory combines molecular biology, analysis of molecular dynamics, and bioinformatics methodologies for the design, analysis, and techniques for the validation of the biological hypotheses.
