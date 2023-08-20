@@ -19,10 +19,8 @@
 - name: Dr. David Muñoz Maulén
   is_pi: False
   is_current: True
-  position: Post-Doctorade 
-  github: https://github.com/lkhilton
-  orcid: https://orcid.org/0000-0002-6413-6586
-  Thesis: http://repositorio.udec.cl/handle/11594/4588
+  position: Post-Doctorate 
+  researchgate: http://repositorio.udec.cl/handle/11594/4588
   bio: >
     B-cell non-Hodgkin lymphomas have a high frequency of driver structural
     variants, especially those that involve placing the oncogenes MYC, BCL2,
@@ -34,4 +32,4 @@
     characterized lymphomas, to identify progonostic and predictive biomarkers
     and targetable vulnerabilities that can be exploited in the development
     of novel therapies.
-  photo: team/lhilton.jpg
+  photo: team/current/DavidMunoz.JPG
