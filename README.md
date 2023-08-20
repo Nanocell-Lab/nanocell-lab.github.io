@@ -13,7 +13,7 @@ The following research areas are being investigated in the lab at the moment:
 
 1. Hereditary cancer profiles and their effects on breast, ovarian, gastric, and colon cancer.
 2. Regional and evolutionary analysis of the development of cancer along with an assessment of the tumour microenvironment.
-3. Perform the development of allosteric inhibitors targeting neoplastic cells linked to serine/threonine kinase receptors are modelled in vitro.
+3. Perform the development of allosteric inhibitors targeting neoplastic cells linked to serine/threonine kinase receptors are modelled <em>in vitro</em>.
 4. The creation of nanomedicines that precisely identify therapeutic targets and activate them at the subcellular level for efficient diagnosis and treatment.
 
 ### Why the name Nanocell?
