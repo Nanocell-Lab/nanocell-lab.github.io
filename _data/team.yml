@@ -12,7 +12,9 @@
     <a href="http://www.udec.cl">Universidad de Concepción</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
     Alexis Salas is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a biochemist and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology, he has completed diplomas in Innovation and Technological Management (2014), Higher Education (2015) and Creative Industries (2016). Alexis Salas is director of the Science Mission Node (2020-2023), Territorial Impact Acceleration Nodes of the CTCI - ANID, where this Node is a public-private civil organization for communication and articulation of Science with the Territory for sustainable development with mission-based planning. 
     His skills are in molecular biology and computational biology, he is a computer programmer and develops software for multiomics data analysis and computer aided drug design.
+
   photo: team/current/AlexisSalas.JPG
+
 
 - name: Dr. David Muñoz Maulén
   is_pi: False
@@ -20,62 +22,16 @@
   position: Post-Doctorade 
   github: https://github.com/lkhilton
   orcid: https://orcid.org/0000-0002-6413-6586
-  researchgate: http://repositorio.udec.cl/handle/11594/4588
-  bio: > 
-    Alexis Salas is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a biochemist and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology, he has completed diplomas in Innovation and Technological Management (2014), Higher Education (2015) and Creative Industries (2016). Alexis Salas is director of the Science Mission Node (2020-2023), Territorial Impact Acceleration Nodes of the CTCI - ANID, where this Node is a public-private civil organization for communication and articulation of Science with the Territory for sustainable development with mission-based planning. 
-    His skills are in molecular biology and computational biology, he is a computer programmer and develops software for multiomics data analysis and computer aided drug design.
-photo: team/current/AlexisSalas.JPG
-
-- name: Martina Oppliger Muñoz
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
+  Thesis: http://repositorio.udec.cl/handle/11594/4588
   bio: >
-    Thesis: Identification and characterization of functional groups in the family of sugar transporters. http://repositorio.udec.cl/handle/11594/9238.
-  researchgate: http://repositorio.udec.cl/handle/11594/9238
-  photo: team/alumni/MartinaOppliger.JPG
-
-  - name: Víctor Fica León
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
-  bio: >
-    Thesis: Development of a method based on machine learning for the prediction of affinity change by point mutations in antigen-antibody complexes. http://repositorio.udec.cl/handle/11594/6329.
-  researchgate: http://repositorio.udec.cl/handle/11594/6329 
-  photo: team/alumni/VictorFica.JPG
-
-    - name: Brian Gática Rocha
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
-  bio: >
-    Thesis: Automated gene annotation system associated with probiotic characteristics from next generation sequencing. http://repositorio.udec.cl/handle/11594/6395.
-  researchgate: http://repositorio.udec.cl/handle/11594/6395 
-  photo: team/alumni/BrianGatica.JPG
-
- - name: Alexis Fonseca Poza
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
-  bio: >
-    Thesis: Identification of genes involved in the biosynthesis of antibiotics in two bacterial genomes from anoxic sediments. http://repositorio.udec.cl/handle/11594/2152.
-  researchgate: http://repositorio.udec.cl/handle/11594/2152
-  photo: team/alumni/AlexisFonseca.JPG
-
-  - name: Myriam Solís García
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
-  bio: >
-    Thesis: MYB-R2R3 transcription factors in the transcriptome in response to low temperature of Eucalyptus nitens. http://repositorio.udec.cl/handle/11594/838.
-  researchgate: http://repositorio.udec.cl/handle/11594/838
-  photo: team/alumni/MyriamSolis.JPG
-
-  - name: Alexis Fonseca Poza
-  is_pi: False
-  is_current: False
-  position: Biochemistr and Bioinformatic Master Degree
-  bio: >
-    Thesis: Identification of genes involved in the biosynthesis of antibiotics in two bacterial genomes from anoxic sediments. http://repositorio.udec.cl/handle/11594/2152.
-  researchgate: http://repositorio.udec.cl/handle/11594/2152
-  photo: team/alumni/AlexisFonseca.JPG
+    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
+    variants, especially those that involve placing the oncogenes MYC, BCL2,
+    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
+    My project utilizes whole genome and targeted sequencing to characterize
+    these driver SVs across B-NHLs with a goal of understanding the mechanisms
+    by which they arise. I'm also interested in using gene expression and
+    mutation data to facilitate the classification of rare and/or poorly
+    characterized lymphomas, to identify progonostic and predictive biomarkers
+    and targetable vulnerabilities that can be exploited in the development
+    of novel therapies.
+  photo: team/lhilton.jpg
