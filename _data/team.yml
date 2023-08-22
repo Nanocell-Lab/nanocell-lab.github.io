@@ -19,26 +19,82 @@
   is_pi: False
   is_current: True
   position: Post-Doctorate 
+  orcid:  https://orcid.org/0000-0003-3268-1739
+  scholar: https://scholar.google.com/citations?user=BHU0lbgAAAAJ&hl=es
   researchgate: http://repositorio.udec.cl/handle/11594/4588
   bio: >
-    B-cell non-Hodgkin lymphomas have a high frequency of driver structural
-    variants, especially those that involve placing the oncogenes MYC, BCL2,
-    BCL6, and CCND1 under the control of potent immunoglobulin enhancers.
-    My project utilizes whole genome and targeted sequencing to characterize
-    these driver SVs across B-NHLs with a goal of understanding the mechanisms
-    by which they arise. I'm also interested in using gene expression and
-    mutation data to facilitate the classification of rare and/or poorly
-    characterized lymphomas, to identify progonostic and predictive biomarkers
-    and targetable vulnerabilities that can be exploited in the development
-    of novel therapies.
+    Dr. David Muñoz is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a evolutionary biologist with a master in Biochemistry and Bioinformatics (2015), and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology (2020). Dr. David develops his postdoctoral project in the cancer’s Molecular Dynamics Laboratory, entitled: “Characterization of the effect of the temporal order of driver mutations in the TP53 gene on intratumoral heterogeneity from biopsies of patients with gastric cancer”.
   photo: team/current/DavidMunoz.JPG
 
 
 - name: Mg. Martina Oppliger Muñoz
   is_pi: False
   is_current: True
-  position: Bioinfortmatician
+  position: Bioinformatician
   researchgate: http://repositorio.udec.cl/handle/11594/9238
   bio: >
     Thesis: Identification and characterization of functional groups in the family of sugar transporters.
   photo: team/current/MartinaOppliger.JPG
+
+- name: Mg(c). Marcelo Cáceres Parada
+  is_pi: False
+  is_current: True
+  position: Master Student
+  github: https://github.com/MCsudo
+  bio: >
+    Thesis: Identification and characterization of functional groups in the family of sugar transporters.
+  photo: team/current/MarceloCaceres.JPG
+
+- name: Mg(c). Bastián Lillo Dapermont 
+  is_pi: False
+  is_current: True
+  position: Master Student
+  github: https://github.com/b-lillo
+  bio: >
+    I am a biochemist and currently a student of the master's degree in biochemistry and bioinformatics at the faculty of biological sciences of the Universidad de Concepción. In my undergraduate studies I was interested in the study of molecular mechanisms related to adaptation in hypersaline desert soils such as the Atacama Desert. Currently I am interested in structural and computational biology, mainly the study of conformational changes in transporters through molecular dynamics simulations.
+  photo: team/current/BastianLillo.JPG
+
+- name: Francisco Tapia Belmonte
+  is_pi: False
+  is_current: True
+  position: Master Student
+  github: https://github.com/MrFrank95
+  bio: >
+    I am a biochemist and currently a student of the master's degree in biochemistry and bioinformatics at the faculty of biological sciences of the Universidad de Concepción. In my undergraduate studies I was interested in the study of molecular mechanisms related to adaptation in hypersaline desert soils such as the Atacama Desert. Currently I am interested in structural and computational biology, mainly the study of conformational changes in transporters through molecular dynamics simulations.
+  photo: team/current/FranciscoTapia.JPG
+
+- name: Melissa Ormeño
+  is_pi: False
+  is_current: True
+  position: Bioingeneering Student
+  github: https://github.com/melissa0r
+  bio: >
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+  photo: team/current/MelissaOrmeno.JPG
+
+- name: Juan Carlos Bustamante
+  is_pi: False
+  is_current: True
+  position: Bioingeneering Student
+  github: https://github.com/dacoya
+  bio: >
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+  photo: team/current/JuanBustamante.JPG
+
+- name: Diego Acosta
+  is_pi: False
+  is_current: True
+  position: Bioingeneering Student
+  github: https://github.com/dacoya
+  bio: >
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+  photo: team/current/DiegoAcosta.JPG
+
+  - name: José Miguel Lema
+  is_pi: False
+  is_current: True
+  position: Lab Technician
+  github: https://github.com/jlemaf
+  bio: >
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+  photo: team/current/JoseLema.JPG
