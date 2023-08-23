@@ -42,7 +42,7 @@
   position: Master Student
   github: https://github.com/MCsudo
   bio: >
-    Thesis: Identification and characterization of functional groups in the family of sugar transporters.
+    I'm a bioengineer, currently studying in the master's program of biochemistry and bioinformatics at Universidad de Concepcion <a href="http://www.udec.cl">Universidad de Concepción</a>. In my undergraduate studies, I was interested in the studies of ion channels and their contributions to the mechanism of pain. Currently, I'm working on the studies of enzymes highly used on cancer therapies, such as asparaginases, using molecular dynamics and QM/MM hybrid methods.
   photo: team/current/MarceloCaceres.JPG
 
 - name: Mg(c). Bastián Lillo Dapermont 
@@ -60,7 +60,7 @@
   position: Master Student
   github: https://github.com/MrFrank95
   bio: >
-    I am a biochemist and currently a student of the master's degree in biochemistry and bioinformatics at the faculty of biological sciences of the Universidad de Concepción. In my undergraduate studies I was interested in the study of molecular mechanisms related to adaptation in hypersaline desert soils such as the Atacama Desert. Currently I am interested in structural and computational biology, mainly the study of conformational changes in transporters through molecular dynamics simulations.
+    I am a graduate in Bioengineering, currently enrolled in the master's program for Biochemistry and Bioinformatics at Universidad de Concepción. My academic interests predominantly encompass the domains of structural and computational biology, software development, and microbiology. Currently, my principal area of study revolves around the identification of novel transporters that might facilitate cancer's adaptation to its microenvironment.
   photo: team/current/FranciscoTapia.JPG
 
 - name: Melissa Ormeño
@@ -69,14 +69,14 @@
   position: Bioingeneering Student
   github: https://github.com/melissa0r
   bio: >
-    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+    I'm Melissa, a bioengineering undergraduate student. From the first time I saw a microscope and saw plant cells from an onion at school, I knew that I wanted to work in an area where I could be in a laboratory, so I began to study bioengineering where I learned about cell and molecular biology, biochemistry and microbiology. At present, I am engaged in conducting research for my undergraduate thesis. The focus of my study involves mapping tyrosine kinase proteins within tumor cell lines, with the ultimate goal of expediting the advancement of novel cancer treatments. As part of my thesis work, I am actively involved in conducting cell cultures and laboratory experiments. Additionally, I have recently been acquiring knowledge in data analysis techniques through my involvement with the Laboratory of Molecular Dynamics of Cancer.
   photo: team/current/MelissaOrmeno.JPG
 
 - name: Juan Carlos Bustamante
   is_pi: False
   is_current: True
   position: Bioingeneering Student
-  github: https://github.com/dacoya
+  github: https://github.com/jbustatamante2019
   bio: >
     Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
   photo: team/current/JuanBustamante.JPG
@@ -87,7 +87,7 @@
   position: Bioingeneering Student
   github: https://github.com/dacoya
   bio: >
-    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology. As an enthusiastic computer programmer, my expertise lies in utilizing my skills to assist in the development of software aimed at studying conformational changes in transporters. Additionally, I am particularly interested in exploring how these tools can be effectively employed in the field of drug design.
   photo: team/current/DiegoAcosta.JPG
 
 - name: José Miguel Lema
@@ -98,3 +98,13 @@
   bio: >
     Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
   photo: team/current/JoseLema.JPG
+
+  - name: Víctor Fica León
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  github: https://github.com/villion
+  researchgate: http://repositorio.udec.cl/handle/11594/6329
+  bio: >
+    Soon.
+  photo: team/alumni/VictoFica.JPG
