@@ -4,7 +4,7 @@
   position: Associate Professor
   orcid:  https://orcid.org/0000-0002-6577-9970
   scholar: https://scholar.google.com/citations?hl=en&user=32ol-SYAAAAJ
-  researchgate: https://www.researchgate.net/profile/Alexis-Salas-Burgos
+  researchgate: https://drive.google.com/file/d/0BxQRIhVH1vBtR0FKWGI2LTN3MlU/view?usp=sharing&resourcekey=0-Y7RTiuOSrLhFzzuFOoWa6w
   github: https://github.com/alsalas
   twitter: https://twitter.com/alsalas7
   bio: >
@@ -13,7 +13,6 @@
     Alexis Salas is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a biochemist and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology, he has completed diplomas in Innovation and Technological Management (2014), Higher Education (2015) and Creative Industries (2016). Alexis Salas is director of the Science Mission Node (2020-2023), Territorial Impact Acceleration Nodes of the CTCI - ANID, where this Node is a public-private civil organization for communication and articulation of Science with the Territory for sustainable development with mission-based planning. 
     His skills are in molecular biology and computational biology, he is a computer programmer and develops software for multiomics data analysis and computer aided drug design.
   photo: team/current/AlexisSalas.JPG
-
 
 - name: Dr. David Muñoz Maulén
   is_pi: False
@@ -25,7 +24,6 @@
   bio: >
     Dr. David Muñoz is an academic at the University of Concepción, Faculty of Biological Sciences, Department of Pharmacology. In his academic training he is a evolutionary biologist with a master in Biochemistry and Bioinformatics (2015), and a doctor in Biological Sciences with a mention in Cellular and Molecular Biology (2020). Dr. David develops his postdoctoral project in the cancer’s Molecular Dynamics Laboratory, entitled: “Characterization of the effect of the temporal order of driver mutations in the TP53 gene on intratumoral heterogeneity from biopsies of patients with gastric cancer”.
   photo: team/current/DavidMunoz.JPG
-
 
 - name: Mg. Martina Oppliger Muñoz
   is_pi: False
@@ -97,7 +95,7 @@
   position: Lab Technician
   github: https://github.com/jlemaf
   bio: >
-    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology.
+    I did my undergraduate at University of Concepción in Biochemistry.
   photo: team/current/JoseLema.JPG
 
 - name: Víctor Fica León
@@ -107,7 +105,7 @@
   github: https://github.com/villion
   researchgate: http://repositorio.udec.cl/handle/11594/6329
   bio: >
-    Soon.
+    I did my undergraduate at University of Concepción in Bioingeneering.
   photo: team/alumni/VictorFica.JPG
 
 - name: Myriam Solís García
@@ -116,5 +114,68 @@
   position: Master in Biochemistry and Bioinformatics
   researchgate: http://repositorio.udec.cl/handle/11594/838
   bio: >
-    Soon.
+    I did my undergraduate at University of Concepción in Plant Biotechnology (2010-2015, cum laude). My thesis was on fungicide resistance of Botrytis cinerea in Eucalyptus nurseries and its relation with the pathogen aggressiveness and genetic diversity based on the presence of transponsons. Later, on 2017 I enjoyed the nanocell lab doing my MSc in biochemistry and bioinformatics at University of Concepción, the project was about strategies of transcriptome assembly of Eucalyptus spp. under cold stress and transcription factors involved in the process. I learned programing languages such as; R and Python, and the most special part was to participate in a social program that taught coding in chilean public schools under the project 1024 programadores, leader by Alexis Salas. I'm currently in FABI, University of Pretoria, South Africa where im studying plant pathology, mainly resistance against diseases at molecular, biochemical and anatomical level. Personally, I really like getting to know places and cultures (languages, arts and music).
   photo: team/alumni/MyriamSolis.JPG
+
+- name: Brian Gatica Rocha
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: http://repositorio.udec.cl/handle/11594/6395
+  bio: >
+    I did my undergraduate at University of Concepción in Bioingeneering Aquaculture.
+  photo: team/alumni/BrianGatica.JPG
+
+- name: Alexis Fonseca Poza
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: http://repositorio.udec.cl/handle/11594/2152
+  bio: >
+    I did my undergraduate at University of Concepción in Marine Biology.
+  photo: team/alumni/AlexisFonseca.JPG
+
+- name: Paulina Andrea Lincoñir Campos
+  is_pi: False
+  is_current: False
+  position: Master in Microbiology
+  researchgate: http://repositorio.udec.cl/handle/11594/1006
+  bio: >
+    I did my undergraduate at University of Concepción in Biology.
+  photo: team/alumni/PaulinaLinconir.JPG
+
+- name: Fernando Andrés Rivas Valdés
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: http://repositorio.udec.cl/handle/11594/698
+  bio: >
+    I did my undergraduate at University of Concepción in Biology.
+  photo: team/alumni/PaulinaLinconir.JPG
+
+- name: Felipe Edgardo Bravo Cáceres
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: http://repositorio.udec.cl/jspui/handle/11594/5361
+  bio: >
+    I did my undergraduate at University of Concepción in Biochemistry.
+  photo: team/alumni/FelipeBravo.JPG
+
+- name: Javier Alejandro Cáceres Delpiano
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: https://drive.google.com/file/d/0BxQRIhVH1vBtc0NlakxuSkVmOW8/view?usp=sharing&resourcekey=0-UysGrLJYqhaFUhrEGaG7Eg
+  bio: >
+    I did my undergraduate at Universidad Andres Bello in Biochemistry.
+  photo: team/alumni/JavierCaceres.JPG
+
+- name: Jaime Teneb Lobos
+  is_pi: False
+  is_current: False
+  position: Master in Biochemistry and Bioinformatics
+  researchgate: http://repositorio.udec.cl/jspui/handle/11594/2045 
+  bio: >
+    I did my undergraduate at Universidad de Concepción in Bioingeneering.
+  photo: team/alumni/JaimeTeneb.JPG
