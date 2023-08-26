@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GAMBL
+title: CMD 101
 permalink: /pi/
 toggle: on
 rank: 6
