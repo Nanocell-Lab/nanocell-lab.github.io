@@ -6,49 +6,52 @@ toggle: on
 rank: 6
 ---
 
-# Genomic Analysis of Mature B-cell Lymphomas
-Welcome to the project landing page for GAMBL!
+# Cancer Molecular Dynamics 101
 
-```
-  /$$$$$$     /$$$$$$    /$$      /$$   /$$$$$$$    /$$. 
- /$$__  $$   /$$__  $$  | $$$    /$$$  | $$__  $$  | $$. 
-| $$  \__/  | $$  \ $$  | $$$$  /$$$$  | $$  \ $$  | $$. 
-| $$ /$$$$  | $$$$$$$$  | $$ $$/$$ $$  | $$$$$$$   | $$. 
-| $$|_  $$  | $$__  $$  | $$  $$$| $$  | $$__  $$  | $$. 
-| $$  \ $$  | $$  | $$  | $$\  $ | $$  | $$  \ $$  | $$. 
-|  $$$$$$/  | $$  | $$  | $$ \/  | $$  | $$$$$$$/  | $$$$$$$$. 
- \______/   |__/  |__/  |__/     |__/  |_______/   |________/. 
-~~GENOMIC~~~~~~~~~~~~~OF~~~~~~~~~~~~~~~~~B-CELL~~~~~~~~~~~~~~~. 
-~~~~~~~~~~~~~ANALYSIS~~~~~~MATURE~~~~~~~~~~~~~~~~~~~LYMPHOMAS~. 
-```
+## Starting skills
 
-## Overview
+In order to qualify for the development of their theses, students in the cancer molecular dynamics laboratory must work on the following skills:
 
-The Morin laboratory is performing a meta-analysis of whole genome sequencing (WGS) and gene expression (RNA-seq) data from B-cell lymphomas using in-house and published data sets. Our analysis will explore copy number (CNV), simple somatic mutation (SSM) and structural variation (SV) patterns within and across common mature B-cell neoplasms spanning Burkitt lymphoma, diffuse large B-cell lymphoma, follicular lymphoma, mantle cell lymphoma and chronic lymphocytic leukaemia. We will compare the prevalence of coding and non-coding driver mutations, recurrent CNVs and SVs (including gene fusions) across this spectrum of cancers. We will specifically focus on SVs involving oncogenes and both immunoglobulin and non-IG partners as well as the relationship between class switch recombination and each malignancy. Our analysis will include the comparison of SSM patterns in non-coding regions affected by aberrant somatic hypermutation (aSHM). We will use mutational signatures to infer mutational processes that contribute to SSMs in each cancer type. We will search for associations between these variables and age, EBV status and molecular subgroups. We will also analyze the available (matched) RNA-seq data for cis-regulatory alterations such as examples of allelic imbalance and mutations that affect splicing. 
+* Cellular and molecular biology of cancer.
+* Computer programming with python language.
+* Design of pharmacological therapies.
+* Communication skills in a scientific context and dissemination.
 
-## GAMBL presentations
-[Novel Genetic Subgroups Inform on Shared Pathobiology within Adult and Pediatric Burkitt Lymphoma](https://ashpublications.org/blood/article/138/Supplement%201/806/480062/Novel-Genetic-Subgroups-Inform-on-Shared?searchresult=1)
+[Bionformatics course in github](https://github.com/Nanocell-Lab/bioinf_4115025).
+[Python course from 1024](https://www.1024programadores.cl/recursos).
 
-[Constrained FL: A Genetically Distinct Subgroup of Follicular Lymphoma with Low Rates of Somatic Hypermutation and a Reduced Propensity for Histologic Transformation](https://ashpublications.org/blood/article/138/Supplement%201/807/480061/Constrained-FL-A-Genetically-Distinct-Subgroup-of)
+Then they specialize in skills in these areas:
+* Multiomics analysis and heterogeneity in cancer: genomics, proteomics and multiomics.
+* Design of drugs for receptor kinases associated with neoplastic proliferation.
+* Design of oncological subcellular therapy based on transporter proteins.
+* Software development to accelerate drug design.
 
-[An Open-Source Toolkit That Powers the Genome-Wide Analysis of Mature B-Cell Lymphomas (GAMBL) Project](https://ash.confex.com/ash/2021/webprogram/Session21061.html)
+## Advanced Skills
 
-[Complex Structural Variation Associated with Enhancer Hijacking and Loss of Tumor Suppressors in Mantle Cell Lymphoma](https://ashpublications.org/blood/article/138/Supplement%201/675/479519/Complex-Structural-Variation-Associated-with?searchresult=1)
+### Multiomic analysis and heterogeneity in cancer.
+* Multiomics analysis: Database curation with pandas.
+* Multiomics analysis: Machine learning with scikitlearn.
+* Multiomics analysis: GSEA, MSEA, PSEA.
+* Multiomic analysis: MOFA.
+* Heterogeneity in cancer: Mutations and expression.
+* Heterogeneity in cancer: clonal selection.
+* Heterogeneity in cancer: Relationship with the immune system.
+* Heterogeneity in cancer: Relationship with microbiota.
 
-## Summary of genomes by pathology
+### Drug Design/Receptor Kinase Targeted Therapy for Cancer.
+* Structure and dynamics of the Activin/BMP/ACVR1/BMPR2/SMAD receptor pathway.
+* Development of *in vitro* disease models.
+* Molecular dynamics of receptor kinases.
+* Calculation of free energies.
 
-<div style="margin-bottom: 50px;">
-    <img src="{{ 'projects/pathology_gambl.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
+### Drug design/transporter-targeted therapy for cancer.
+* Structure and dynamics of sugar transporters.
+* Structure and dynamics of solute carriers (SLC).
+* Coevolution in carrier proteins.
+* Studies of mocular dynamics of alternating transport mechanisms.
 
-## Simple Somatic Mutation (SSM) Load 
-
-<div style="margin-bottom: 50px;">
-    <img src="{{ 'projects/mutations-1.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
-
-## Structural Variant (SV) Breakpoint Load
-
-<div style="margin-bottom: 50px;">
-    <img src="{{ 'projects/sv-1.svg' | prepend: site.images_dir | prepend: site.baseurl }}" />
-</div>
+### Software development to accelerate drug design.
+* Bioinformatics Pipeline: github.
+* Bioinformatics Pipeline: snakemake.
+* Bioinformatics Pipeline: docker.
+* Bioinformatics Pipeline: nextflow.
