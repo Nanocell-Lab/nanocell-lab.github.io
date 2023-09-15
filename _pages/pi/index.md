@@ -17,8 +17,8 @@ In order to qualify for the development of their theses, students in the cancer 
 * Design of pharmacological therapies.
 * Communication skills in a scientific context and dissemination.
 
-[Bionformatics course in github](https://github.com/Nanocell-Lab/bioinf_4115025).
-[Python course from 1024](https://www.1024programadores.cl/recursos).
+* [Bionformatics course in github](https://github.com/Nanocell-Lab/bioinf_4115025).
+* [Python course from 1024](https://www.1024programadores.cl/recursos).
 
 Then they specialize in skills in these areas:
 * Multiomics analysis and heterogeneity in cancer: genomics, proteomics and multiomics.
