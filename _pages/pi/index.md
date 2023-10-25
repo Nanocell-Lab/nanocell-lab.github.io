@@ -10,9 +10,9 @@ rank: 6
 
 ## Póster and Presentation Slices Formats
 
-* [Herramientas para crear Figuras Científicas](https://www.craft.me/s/bYAe8MyyzFtN1c) 
-* [Reference Poster] (https://drive.google.com/file/d/1P7SIvbUIHMwzjA-mYI2CPTmEBXSFauRO/view?usp=sharing)
-* [Slices Reference]
+* [Tools for Create Scientific Figures](https://www.craft.me/s/bYAe8MyyzFtN1c) 
+* [Reference Poster](https://drive.google.com/file/d/1P7SIvbUIHMwzjA-mYI2CPTmEBXSFauRO/view?usp=sharing)
+* [Slices Reference]()
 
 ## Starting skills
 
