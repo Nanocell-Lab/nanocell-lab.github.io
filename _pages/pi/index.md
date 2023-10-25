@@ -8,6 +8,12 @@ rank: 6
 
 # Cancer Molecular Dynamics 101
 
+## Póster and Presentation Slices Formats
+
+* [Herramientas para crear Figuras Científicas](https://www.craft.me/s/bYAe8MyyzFtN1c) 
+* [Reference Poster] (https://drive.google.com/file/d/1P7SIvbUIHMwzjA-mYI2CPTmEBXSFauRO/view?usp=sharing)
+* [Slices Reference]
+
 ## Starting skills
 
 In order to qualify for the development of their theses, students in the cancer molecular dynamics laboratory must work on the following skills:
