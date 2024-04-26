@@ -34,16 +34,6 @@
     I began my university studies at the School of Pharmacy of the University of Concepción, obtaining my Bachelor's degree in Biochemistry in 2016. During my studies, I cultivated an interest in physical chemistry and structural biology, which motivated me to enroll in the Master's program in Biochemistry and Bioinformatics at the same university. I completed this program in 2021, summa cum laude. My master's thesis, developed under the guidance of Dr. Alexis Salas, explored the molecular basis of functional selectivity in sugar and polyol transporters. During my years as a student, I also developed an interest in science education, which led me to obtain a teaching degree and a master's in Educational Management and Leadership, as well as a diploma in Higher Education Teaching. Currently, I am actively involved in teaching science across various educational settings and contributing to research at the Nanocell laboratory.
   photo: team/current/MartinaOppliger.JPG
 
-- name: Ignacion Duran
-  is_pi: False
-  is_current: True
-  position: Bioingeneering Thesist
-  #researchgate: http://repositorio.udec.cl/handle/11594/9238
-  github: https://github.com/moppliger
-  bio: >
-    I began my university studies at the School of Pharmacy of the University of Concepción, obtaining my Bachelor's degree in Biochemistry in 2016. During my studies, I cultivated an interest in physical chemistry and structural biology, which motivated me to enroll in the Master's program in Biochemistry and Bioinformatics at the same university. I completed this program in 2021, summa cum laude. My master's thesis, developed under the guidance of Dr. Alexis Salas, explored the molecular basis of functional selectivity in sugar and polyol transporters. During my years as a student, I also developed an interest in science education, which led me to obtain a teaching degree and a master's in Educational Management and Leadership, as well as a diploma in Higher Education Teaching. Currently, I am actively involved in teaching science across various educational settings and contributing to research at the Nanocell laboratory.
-  photo: team/current/MartinaOppliger.JPG
-
 - name: Mg(c). Marcelo Cáceres Parada
   is_pi: False
   is_current: True
@@ -71,10 +61,19 @@
     I am a graduate in Bioengineering, currently enrolled in the master's program for Biochemistry and Bioinformatics at Universidad de Concepción. My academic interests predominantly encompass the domains of structural and computational biology, software development, and microbiology. Currently, my principal area of study revolves around the identification of novel transporters that might facilitate cancer's adaptation to its microenvironment.
   photo: team/current/FranciscoTapia.JPG
 
+  - name: Ignacio Duran
+  is_pi: False
+  is_current: True
+  position: Bioingeneering Thesis Student
+  github: https://github.com/
+  bio: >
+    
+  photo: team/current/IgnacioDuran.JPG
+
 - name: Melissa Ormeño
   is_pi: False
   is_current: True
-  position: Bioingeneering Student
+  position: Bioingeneering Thesis Student
   github: https://github.com/melissa0r
   bio: >
     I'm Melissa, a bioengineering undergraduate student. From the first time I saw a microscope and saw plant cells from an onion at school, I knew that I wanted to work in an area where I could be in a laboratory, so I began to study bioengineering where I learned about cell and molecular biology, biochemistry and microbiology. At present, I am engaged in conducting research for my undergraduate thesis. The focus of my study involves mapping tyrosine kinase proteins within tumor cell lines, with the ultimate goal of expediting the advancement of novel cancer treatments. As part of my thesis work, I am actively involved in conducting cell cultures and laboratory experiments. Additionally, I have recently been acquiring knowledge in data analysis techniques through my involvement with the Laboratory of Molecular Dynamics of Cancer.
@@ -83,7 +82,7 @@
 - name: Juan Carlos Bustamante
   is_pi: False
   is_current: True
-  position: Biochemist Student
+  position: Biochemist Thesis Student
   github: https://github.com/jbustatamante2019
   bio: >
     I am Juan Carlos, a fifth year biochemistry student. From a very young age I was curious about the world around me, always trying to understand the reason for what caught my attention, a curiosity that only grew with the passage of time. The moment I discovered my current career I knew it was the place where that childhood feeling could flourish, and when I entered the world of research laboratories I strengthened that idea even more. I am currently doing my research unit for a future thesis, with the aim of this I have been learning about data analysis, molecular dynamics, in order to perform drug design oriented to new therapies against cancer.
@@ -92,10 +91,10 @@
 - name: Diego Acosta
   is_pi: False
   is_current: True
-  position: Bioingeneering Student
+  position: Bioingeneering Thesis Student
   github: https://github.com/dacoya
   bio: >
-    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering, Faculty of Biological Sciences, Universidad of Concepción. recently integrated in the CMDL laboratory, Department of Pharmacology. As an enthusiastic computer programmer, my expertise lies in utilizing my skills to assist in the development of software aimed at studying conformational changes in transporters. Additionally, I am particularly interested in exploring how these tools can be effectively employed in the field of drug design.
+    Born and raised in Linares, Chile. Diego Acosta is an undergraduate student coursing the last semester of Bioengineering and currently completing his Thesis project in Faculty of Biological Sciences, Universidad of Concepción. Department of Pharmacology. As an enthusiastic computer programmer, my expertise lies in utilizing my skills to assist in the development of software aimed at studying conformational changes in transporters. Additionally, I am particularly interested in exploring how these tools can be effectively employed in the field of drug design.
   photo: team/current/DiegoAcosta.JPG
 
 - name: José Miguel Lema
