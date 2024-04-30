@@ -61,7 +61,7 @@
     I am a graduate in Bioengineering, currently enrolled in the master's program for Biochemistry and Bioinformatics at Universidad de Concepción. My academic interests predominantly encompass the domains of structural and computational biology, software development, and microbiology. Currently, my principal area of study revolves around the identification of novel transporters that might facilitate cancer's adaptation to its microenvironment.
   photo: team/current/FranciscoTapia.JPG
 
-  - name: Ignacio Duran
+- name: Ignacio Duran
   is_pi: False
   is_current: True
   position: Bioingeneering Thesis Student
