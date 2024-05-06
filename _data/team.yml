@@ -34,6 +34,18 @@
     I began my university studies at the School of Pharmacy of the University of Concepción, obtaining my Bachelor's degree in Biochemistry in 2016. During my studies, I cultivated an interest in physical chemistry and structural biology, which motivated me to enroll in the Master's program in Biochemistry and Bioinformatics at the same university. I completed this program in 2021, summa cum laude. My master's thesis, developed under the guidance of Dr. Alexis Salas, explored the molecular basis of functional selectivity in sugar and polyol transporters. During my years as a student, I also developed an interest in science education, which led me to obtain a teaching degree and a master's in Educational Management and Leadership, as well as a diploma in Higher Education Teaching. Currently, I am actively involved in teaching science across various educational settings and contributing to research at the Nanocell laboratory.
   photo: team/current/MartinaOppliger.JPG
 
+- name: Mg. Valentina troncoso
+  is_pi: False
+  is_current: True
+  position: Associate researcher
+  bio: >
+    I am Valentina Troncoso, a graduate in Plant Biotechnology Engineering from the University of Concepción (2007-2011). I began my career in 2012 at the Faculty of Chemical Sciences at UdeC, researching the impact of antioxidants on cellular models. That same year, I joined the University's Biotechnology Center, at the Forest Genomics Laboratory, where I had my first introduction to bioinformatics, collaborating with Forestales Arauco and CMPC.
+
+    Later, I applied my bioinformatics knowledge in the microbiology and biofilms laboratory, leading my first project funded by Corfo. My interest in microbiology led me to start a master's in this field in 2018, during which I also took courses in biochemistry and bioinformatics. My thesis was titled "Methodological proposal for the molecular characterization of Ralstonia solanacearum based on 16S ribosomal DNA."
+
+    Currently, I apply my expertise in microbiology and bioinformatics to projects involving probiotic bacteria and in formulating innovative initiatives to solve complex challenges in biotechnology.
+  photo: team/current/ValentinaTroncoso.jpeg
+
 - name: Daniela Garrido Jara 
   is_pi: False
   is_current: True
@@ -74,7 +86,7 @@
   is_pi: False
   is_current: True
   position: Bioingeneering Thesis Student
-  github: https://github.com/
+  github: https://github.com/ignaciomaybe
   bio: >
     
   photo: team/nouserpicture.png
@@ -91,7 +103,7 @@
 - name: Juan Carlos Bustamante
   is_pi: False
   is_current: True
-  position: Biochemist Thesis Student
+  position: Biochemist Thesis student and Master Student
   github: https://github.com/jbustatamante2019
   bio: >
     I am Juan Carlos, a fifth year biochemistry student. From a very young age I was curious about the world around me, always trying to understand the reason for what caught my attention, a curiosity that only grew with the passage of time. The moment I discovered my current career I knew it was the place where that childhood feeling could flourish, and when I entered the world of research laboratories I strengthened that idea even more. I am currently doing my research unit for a future thesis, with the aim of this I have been learning about data analysis, molecular dynamics, in order to perform drug design oriented to new therapies against cancer.
