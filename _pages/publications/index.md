@@ -9,16 +9,15 @@ rank: 4
 
 Members of the CMD laboratory indicated in **boldface**
 
-## 2023 
+# 2023 
 
-### **([Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).](https://doi.org/10.1016/j.jns.2023.122024))**
-##### Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
-###### Journal of the Neurological Sciences, 455, 122024. 
-##### https://doi.org/10.1016/j.jns.2023.122024
+## (**[Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).]**(https://doi.org/10.1016/j.jns.2023.122024))
+#### Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
+##### Journal of the Neurological Sciences, 455, 122024. 
 
 Valdebenito-Navarrete, Héctor, Victor Fuentes-Barrera, Carlos T. Smith, **Alexis Salas-Burgos**, Felipe A. Zuniga, Leonardo A. Gomez, y Apolinaria García-Cancino. 2023. «Can Probiotics, Particularly Limosilactobacillus Fermentum UCO-979C and Lacticaseibacillus Rhamnosus UCO-25A, Be Preventive Alternatives against SARS-CoV-2?» Biology 12 (3): 384. https://doi.org/10.3390/biology12030384.
 
-## 2022
+# 2022
 
 Lai, A., Palma, C., **Salas, A.**, Carrion, F., & Salomon, C. (2022). Targeted Mass Spectrometry-Based Proteomics Method to Quantify Placental Extracellular Vesicles. En M. Federico & B. Ridolfi (Eds.), Extracellular Vesicles in Diagnosis and Therapy (pp. 79-89). Springer US. https://doi.org/10.1007/978-1-0716-2341-1_6
 
@@ -28,7 +27,7 @@ Muñoz-Nuñez, E., Quiroz-Carreño, S., Pastene-Navarrete, E., Seigler, D. S., C
 
 Ramírez, D., Jara, E., Jara, N., Camacho, F., Cabanillas, A., **Salas, A.**, Ormazábal Valladares, V., Rojas, R., & Sepúlveda Carreño, M. J. (2022). Drug repositioning as an alternative for the treatment of COVID-19 and future pandemics. Actualidad En Farmacología y Terapéutica, 20(2), 90-100.
 
-## 2021 
+# 2021 
 
 Alharbi, M., Lai, A., Sharma, S., Kalita-de Croft, P., Godbole, N., Campos, A., Guanzon, D., **Salas-Burgos**, A., Carrion, F., Zuñiga, F. A., Perrin, L., He, Y., Pejovic, T., Winters, C., Morgan, T., Hooper, J. D., Rice, G. E., & Salomon, C. (2021). Extracellular Vesicle Transmission of Chemoresistance to Ovarian Cancer Cells Is Associated with Hypoxia-Induced Expression of Glycolytic Pathway Proteins, and Prediction of Epithelial Ovarian Cancer Disease Recurrence. Cancers, 13(14), Article 14. https://doi.org/10.3390/cancers13143388
 
