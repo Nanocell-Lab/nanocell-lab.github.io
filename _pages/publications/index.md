@@ -15,9 +15,11 @@ Members of the CMD laboratory indicated in **boldface**
 #### Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
 ##### Journal of the Neurological Sciences, 455, 122024. 
 
-### _**[Can Probiotics, Particularly Limosilactobacillus Fermentum UCO-979C and Lacticaseibacillus Rhamnosus UCO-25A, Be Preventive Alternatives against SARS-CoV-2?.](https://doi.org/10.3390/biology12030384.)**_
+
+### _**[Can Probiotics, Particularly Limosilactobacillus Fermentum UCO-979C and Lacticaseibacillus Rhamnosus UCO-25A, Be Preventive Alternatives against SARS-CoV-2?.](https://doi.org/10.3390/biology12030384)**_
 #### Valdebenito-Navarrete, Héctor, Victor Fuentes-Barrera, Carlos T. Smith, **Alexis Salas-Burgos**, Felipe A. Zuniga, Leonardo A. Gomez, y Apolinaria García-Cancino. 2023. 
 ##### Biology 12 (3): 384.
+
 
 ## 2022
 
@@ -25,15 +27,21 @@ Members of the CMD laboratory indicated in **boldface**
 #### Lai, A., Palma, C., **Salas, A.**, Carrion, F., & Salomon, C. (2022).
 ##### Springer US (pp. 79-89).
 
+
 ### _**[Heritable genomic diversity in breast cancer driver genes and associations with risk in a Chilean population.*](https://doi.org/10.1186/s40659-022-00384-4)**_
 #### Morales-Pison, S., Gonzalez-Hormazabal, P., Tapia, J. C., **Salas-Burgos, A.**, Ampuero, S., Gómez, F., Waugh, E., Reyes, J. M., & Jara, L. (2022). 
 ##### Biological Research, 55(1), 20.
+
 
 ### _**[Assessments of Ceanothanes Triterpenes as Cholinesterase Inhibitors: An Investigation of Potential Agents with Novel Inspiration for Drug Treatment of Neurodegenerative Diseases.](https://doi.org/10.3390/metabo12070668)**_
 #### Muñoz-Nuñez, E., Quiroz-Carreño, S., Pastene-Navarrete, E., Seigler, D. S., Céspedes-Acuña, C., Martínez Valenzuela, I., **Oppliger Muñoz, M.**, **Salas-Burgos, A.**, & Alarcón-Enos, J. (2022). 
 ##### Metabolites, 12(7), Article 7.
 
-Ramírez, D., Jara, E., Jara, N., Camacho, F., Cabanillas, A., **Salas, A.**, Ormazábal Valladares, V., Rojas, R., & Sepúlveda Carreño, M. J. (2022). Drug repositioning as an alternative for the treatment of COVID-19 and future pandemics. Actualidad En Farmacología y Terapéutica, 20(2), 90-100.
+
+### _**[Drug repositioning as an alternative for the treatment of COVID-19 and future pandemics.](https://dialnet.unirioja.es/servlet/articulo?codigo=8540104&orden=0&info=link)**_
+#### Ramírez, D., Jara, E., Jara, N., Camacho, F., Cabanillas, A., **Salas, A.**, Ormazábal Valladares, V., Rojas, R., & Sepúlveda Carreño, M. J. (2022). 
+##### Actualidad En Farmacología y Terapéutica, 20(2), 90-100.
+
 
 ## 2021 
 
