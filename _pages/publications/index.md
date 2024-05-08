@@ -11,10 +11,10 @@ Members of the CMD laboratory indicated in **boldface**
 
 ## 2023 
 
-### **[Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).]**(https://doi.org/10.1016/j.jns.2023.122024)
-Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
-Journal of the Neurological Sciences, 455, 122024. 
-https://doi.org/10.1016/j.jns.2023.122024
+### **([Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).](https://doi.org/10.1016/j.jns.2023.122024))**
+##### Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
+###### Journal of the Neurological Sciences, 455, 122024. 
+##### https://doi.org/10.1016/j.jns.2023.122024
 
 Valdebenito-Navarrete, Héctor, Victor Fuentes-Barrera, Carlos T. Smith, **Alexis Salas-Burgos**, Felipe A. Zuniga, Leonardo A. Gomez, y Apolinaria García-Cancino. 2023. «Can Probiotics, Particularly Limosilactobacillus Fermentum UCO-979C and Lacticaseibacillus Rhamnosus UCO-25A, Be Preventive Alternatives against SARS-CoV-2?» Biology 12 (3): 384. https://doi.org/10.3390/biology12030384.
 
