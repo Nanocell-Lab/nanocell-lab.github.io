@@ -16,14 +16,14 @@ Members of the CMD laboratory indicated in **boldface**
 ##### Journal of the Neurological Sciences, 455, 122024. 
 
 ### _**[Can Probiotics, Particularly Limosilactobacillus Fermentum UCO-979C and Lacticaseibacillus Rhamnosus UCO-25A, Be Preventive Alternatives against SARS-CoV-2?.](https://doi.org/10.3390/biology12030384.)**_
-####Valdebenito-Navarrete, Héctor, Victor Fuentes-Barrera, Carlos T. Smith, **Alexis Salas-Burgos**, Felipe A. Zuniga, Leonardo A. Gomez, y Apolinaria García-Cancino. 2023. 
-#####Biology 12 (3): 384.
+#### Valdebenito-Navarrete, Héctor, Victor Fuentes-Barrera, Carlos T. Smith, **Alexis Salas-Burgos**, Felipe A. Zuniga, Leonardo A. Gomez, y Apolinaria García-Cancino. 2023. 
+##### Biology 12 (3): 384.
 
 ## 2022
 
 ### _**[Targeted Mass Spectrometry-Based Proteomics Method to Quantify Placental Extracellular Vesicles. En M. Federico & B. Ridolfi (Eds.), Extracellular Vesicles in Diagnosis and Therapy.](https://doi.org/10.1007/978-1-0716-2341-1_6)**_
-####Lai, A., Palma, C., **Salas, A.**, Carrion, F., & Salomon, C. (2022).
-#####Springer US (pp. 79-89).
+#### Lai, A., Palma, C., **Salas, A.**, Carrion, F., & Salomon, C. (2022).
+##### Springer US (pp. 79-89).
 
 Morales-Pison, S., Gonzalez-Hormazabal, P., Tapia, J. C., **Salas-Burgos, A.**, Ampuero, S., Gómez, F., Waugh, E., Reyes, J. M., & Jara, L. (2022). Heritable genomic diversity in breast cancer driver genes and associations with risk in a Chilean population. Biological Research, 55(1), 20. https://doi.org/10.1186/s40659-022-00384-4
 
