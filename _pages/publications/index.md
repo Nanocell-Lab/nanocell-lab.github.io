@@ -23,6 +23,7 @@ Members of the CMD laboratory indicated in **boldface**
 
 ## 2022
 
+
 ### _**[Targeted Mass Spectrometry-Based Proteomics Method to Quantify Placental Extracellular Vesicles. En M. Federico & B. Ridolfi (Eds.), Extracellular Vesicles in Diagnosis and Therapy.](https://doi.org/10.1007/978-1-0716-2341-1_6)**_
 #### Lai, A., Palma, C., **Salas, A.**, Carrion, F., & Salomon, C. (2022).
 ##### Springer US (pp. 79-89).
@@ -51,7 +52,7 @@ Members of the CMD laboratory indicated in **boldface**
 ##### Cancers, 13(14), Article 14. 
 
 
-### _**Capítulo 3. Diversidad y estructura genética del germoplasma de arroz (Oryza sativa L.) en Chile.**_ 
+### _**[Capítulo 3. Diversidad y estructura genética del germoplasma de arroz (Oryza sativa L.) en Chile.](https://biblioteca.inia.cl/bitstream/handle/20.500.14001/68050/Capitulo%203.pdf?sequence=4)**_ 
 #### Becerra V., V., Paredes C., M., **Salas B., A.**, & Donoso Ñ., G. (2021). 
 ##### En 100 años del Cultivo del Arroz en Chile (Instituto de Investigaciones Agropecuarias. Chillán. Chile.).
 
@@ -123,7 +124,7 @@ Members of the CMD laboratory indicated in **boldface**
 ##### PLoS ONE, 12(12).
  
 
-### _**Utilización de aprendizaje basado en equipos, como metodología activa de enseñanza de farmacología para estudiantes de Enfermería.**_
+### _**[Utilización de aprendizaje basado en equipos, como metodología activa de enseñanza de farmacología para estudiantes de Enfermería.](https://www.researchgate.net/publication/322920358_Utilizacion_de_aprendizaje_basado_en_equipos_como_metodologia_activa_de_ensenanza_de_farmacologia_para_estudiantes_de_Enfermeria)**_
 #### Zúñiga Arbalti, F. A., Castillo Suazo, S., Aguayo Tapia, C., Sánchez Ramos, O., **Salas Burgos, A.**, Hernández Montes, L., & Ormazábal Valladares, V. A. (2017). 
 ##### Educación Médica Superior, 31(1), 78-88.
  
@@ -164,7 +165,7 @@ Members of the CMD laboratory indicated in **boldface**
 ##### The Journal of Biological Chemistry, 285(47), 36471-36485.
 
 
-### _**Vitamin C transporters.**_
+### _**[Vitamin C transporters.](https://www.researchgate.net/publication/24357282_Vitamin_C_transporters)**_
 #### Rivas, C. I., Zúñiga, F. A., **Salas-Burgos, A.**, Mardones, L., Ormazabal, V., & Vera, J. C. (2008). 
 ##### Journal of Physiology and Biochemistry, 64(4), 357-375.
 
@@ -174,7 +175,7 @@ Members of the CMD laboratory indicated in **boldface**
 ##### Biophysical Journal, 87(5), 2990-2999. 
 
 
-### _**Conformational changes induced by cloxacillin in class a beta-lactamase from Bacillus cereus.**_
+### _**[Conformational changes induced by cloxacillin in class a beta-lactamase from Bacillus cereus.](https://www.researchgate.net/publication/8975975_Conformational_changes_induced_by_cloxacillin_in_class_a_beta-lactamase_from_Bacillus_cereus)**_
 #### **Salas-Burgos, A.**, Martínez-Oyanedel, J., & Bunster, M. (2003). 
 ##### Cellular and Molecular Biology (Noisy-Le-Grand, France), 49(6), 985-990.
 
