@@ -9,9 +9,9 @@ rank: 4
 
 Members of the CMD laboratory indicated in **boldface**
 
-# 2023 
+## 2023 
 
-## _**[Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).](https://doi.org/10.1016/j.jns.2023.122024)**_
+### _**[Clinical and neurocognitive characterization of a Chilean series of patients with myotonic dystrophy type 1 (VRID 2020000163MUL).](https://doi.org/10.1016/j.jns.2023.122024)**_
 #### Fuentealba, M., Bustos, V., Herrera, C., & **Salas, A.** (2023). 
 ###### Journal of the Neurological Sciences, 455, 122024. 
 
