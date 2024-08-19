@@ -31,8 +31,11 @@ rank: 1
     {% for project in site.data.projects %}
     {% if project.title and project.list %}
         <li>
-            <h2>{{ project.title }}</h2>
+            <h1>{{ project.title }}</h1>
             {% if project.list %}
+                <p>{{ project.list }}</p>
             {% endif %}
+    {% endif %}
+    {% endfor %}
     </ul>
 </div>
