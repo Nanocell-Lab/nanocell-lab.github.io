@@ -33,7 +33,10 @@ rank: 1
         <li>
             <h1>{{ project.title }}</h1>
             {% if project.list %}
-                <p>{{ project.list }}</p>
+                <p>{{ project.list1 }}</p>
+                <p>{{ project.list2 }}</p>
+                <p>{{ project.list3 }}</p>
+                <p>{{ project.list4 }}</p>
             {% endif %}
     {% endif %}
     {% endfor %}
