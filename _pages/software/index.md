@@ -8,23 +8,23 @@ rank: 3
 
 <div class="container">
     <div class="tab-nav">
-        <button class="active" data-tab-target="#tab1">Tab 1</button>
-        <button data-tab-target="#tab2">Tab 2</button>
-        <button data-tab-target="#tab3">Tab 3</button>
+        {% for category in site.categories %}
+            <button class="{% if forloop.first %}active{% endif %}" data-tab-target="#{{ category.slug }}">{{ category.name }}</button>
+        {% endfor %}
     </div>
     <div class="tab-content">
-        <div id="tab1" class="active">
-            <h2>Tab 1 Content</h2>
-            <p>This is the content of Tab 1.</p>
-        </div>
-        <div id="tab2">
-            <h2>Tab 2 Content</h2>
-            <p>This is the content of Tab 2.</p>
-        </div>
-        <div id="tab3">
-            <h2>Tab 3 Content</h2>
-            <p>This is the content of Tab 3.</p>
-        </div>
+        {% for category in site.categories %}
+            <div id="{{ category.slug }}" class="{% if forloop.first %}active{% endif %}">
+                <h2>Category: {{ category.name }}</h2>
+                <ul>
+                    <li>Name: {{ category.software.name }}</li>
+                    <li>Description: {{ category.software.description }}</li>
+                    <li>Developers: {{ category.software.developers }}</li>
+                    <li>Github: <a href="https://github.com/{{ category.software.github }}">github/{{ category.software.github }}</a></li>
+                    <li>Version: {{ category.software.version }}</li>
+                </ul>
+            </div>
+        {% endfor %}
     </div>
 </div>
 
