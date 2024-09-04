@@ -5,3 +5,10 @@
   github: github/prueba
   version: version de prueba
   
+
+- category: categoria de p2rueba #all categories
+  name: nombre de prueba 2 #name of the software
+  description: de prueba2
+  developers: los probado2res
+  github: github/prueb2a
+  version: version de prueba2

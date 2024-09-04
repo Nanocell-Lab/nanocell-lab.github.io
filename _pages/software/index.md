@@ -6,23 +6,18 @@ toggle: on
 rank: 3
 ---
 
-<div class="software-wrapper">
-  <ul class="software-category-list">
-    {% for category in site.data.softwares | group_by: "category" %}
-    <li>
-        {{ category.grouper }}
-        <ul>
-            {% for software in category.items %} 
-            <p>name: {{ software.name }}</p>
-            <p>description: {{ software.description }}</p>
-            <p>Developers: {{ software.developers }}</p>
-            <p>Github: {{ software.github }}</p>
-            <p>Version: {{ software.version }}</p>
-            {% endfor %}
-        </ul>
-    </li>
-    {% endfor %}
-  </ul>
+<div class="software-list">
+  {% for software in site.data.software %}
+    <div class="box">
+      <p id="initial-text-{{ software.name }}">{{ software.name }}</p>
+      <p id="hidden-text-{{ software.name }}" style="display: none;">
+        {{ software.description }}<br>
+        Developed by: {{ software.developers }}<br>
+        GitHub: {{ software.github }}<br>
+        Version: {{ software.version }}
+      </p>
+    </div>
+  {% endfor %}
 </div>
 
 
