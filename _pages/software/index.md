@@ -10,16 +10,14 @@ rank: 3
   <ul class="software-category-list">
     {% for category in site.data.softwares | group_by: "category" %}
     <li>
-        {{ category.name }}
+        {{ category.grouper }}
         <ul>
-            {% for software in category.items %}
-            <li>
-                <p>name: {{ software.name }}</p>
-                <p>description: {{ software.description }}</p>
-                <p>Developers: {{ software.developers }}</p>
-                <p>Github: {{ software.github }}</p>
-                <p>Version: {{ software.version }}</p>
-            </li>
+            {% for software in category.items %} 
+            <p>name: {{ software.name }}</p>
+            <p>description: {{ software.description }}</p>
+            <p>Developers: {{ software.developers }}</p>
+            <p>Github: {{ software.github }}</p>
+            <p>Version: {{ software.version }}</p>
             {% endfor %}
         </ul>
     </li>
