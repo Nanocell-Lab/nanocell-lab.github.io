@@ -8,13 +8,13 @@ rank: 3
 
 <div class="container">
     <div class="tab-nav">
-        {% for category in site.categories %}
-            <button class="{% if forloop.first %}active{% endif %}" data-tab-target="#{{ category.slug }}">{{ category.name }}</button>
+        {% for category in site.data.categories %}
+            <button class="{% if forloop.first %}active{% endif %}" data-tab-target="#{{ category.name | slugify }}">{{ category.name }}</button>
         {% endfor %}
     </div>
     <div class="tab-content">
-        {% for category in site.categories %}
-            <div id="{{ category.slug }}" class="{% if forloop.first %}active{% endif %}">
+        {% for category in site.data.categories %}
+            <div id="{{ category.name | slugify }}" class="{% if forloop.first %}active{% endif %}">
                 <h2>Category: {{ category.name }}</h2>
                 <ul>
                     <li>Name: {{ category.software.name }}</li>
