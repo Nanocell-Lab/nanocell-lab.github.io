@@ -9,7 +9,7 @@ rank: 3
 <div class="container">
     <div class="tab-nav">
     {% for software in site.data.softwares %}
-    {% if software.name %}
+    {% if software.category %}
             <button class="active" data-tab-target="#tab-{{ loop.index }}">{{ software.name }}</button>
     {% endif %}
     {% endfor %}
