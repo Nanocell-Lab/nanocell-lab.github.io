@@ -14,8 +14,8 @@ rank: 3
         <ul>
             {% for software in category.items %}
             <li>
-                <a href="#">{{ software.name }}</a>
-                <p>{{ software.description }}</p>
+                <p>name: {{ software.name }}</p>
+                <p>description: {{ software.description }}</p>
                 <p>Developers: {{ software.developers }}</p>
                 <p>Github: {{ software.github }}</p>
                 <p>Version: {{ software.version }}</p>
