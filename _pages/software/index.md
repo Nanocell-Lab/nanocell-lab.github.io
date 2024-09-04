@@ -8,23 +8,41 @@ rank: 3
 
 <div class="container">
     <div class="tab-nav">
-        {% for category in site.data.categories %}
-            <button class="{% if forloop.first %}active{% endif %}" data-tab-target="#{{ category.name | slugify }}">{{ category.name }}</button>
-        {% endfor %}
+        <button class="active" data-tab-target="#tab1">Category 1</button>
+        <button data-tab-target="#tab2">Category 2</button>
+        <button data-tab-target="#tab3">Category 3</button>
     </div>
     <div class="tab-content">
-        {% for category in site.data.categories %}
-            <div id="{{ category.name | slugify }}" class="{% if forloop.first %}active{% endif %}">
-                <h2>Category: {{ category.name }}</h2>
-                <ul>
-                    <li>Name: {{ category.software.name }}</li>
-                    <li>Description: {{ category.software.description }}</li>
-                    <li>Developers: {{ category.software.developers }}</li>
-                    <li>Github: <a href="https://github.com/{{ category.software.github }}">github/{{ category.software.github }}</a></li>
-                    <li>Version: {{ category.software.version }}</li>
-                </ul>
-            </div>
-        {% endfor %}
+        <div id="tab1" class="active">
+            <h2>Category: Categoria de prueba</h2>
+            <ul>
+                <li>Name: nombre de prueba</li>
+                <li>Description: de prueba</li>
+                <li>Developers: los probadores</li>
+                <li>Github: <a href="https://github.com/prueba">github/prueba</a></li>
+                <li>Version: version de prueba</li>
+            </ul>
+        </div>
+        <div id="tab2">
+            <h2>Category: Categoria de p2rueba</h2>
+            <ul>
+                <li>Name: nombre de prueba 2</li>
+                <li>Description: de prueba2</li>
+                <li>Developers: los probado2res</li>
+                <li>Github: <a href="https://github.com/prueb2a">github/prueb2a</a></li>
+                <li>Version: version de prueba2</li>
+            </ul>
+        </div>
+        <div id="tab3">
+            <h2>Category: Categoria de prueba3</h2>
+            <ul>
+                <li>Name: nombre de prue3ba</li>
+                <li>Description: de prueb3a</li>
+                <li>Developers: los probadores3</li>
+                <li>Github: <a href="https://github.com/prueba3">github/prueba3</a></li>
+                <li>Version: version de pr3ueba</li>
+            </ul>
+        </div>
     </div>
 </div>
 
