@@ -1,20 +1,63 @@
-- category: Categoria de prueba
+- category: Software
   software:
-    name: nombre de prueba
+    name: alignment
     description: de prueba
     developers: los probadores
     github: prueba
     version: version de prueba
-
-- category: Categoria de p2rueba
   software:
-    name: nombre de prueba 2
+    name: Coevolution
+    description: de prueba2
+    developers: los probado2res
+    github: prueb2a
+    version: version de prueba2
+  software:
+    name: Molecular Docking
+    description: de prueba2
+    developers: los probado2res
+    github: prueb2a
+    version: version de prueba2
+  software:
+    name: Genomics
+    description: de prueba2
+    developers: los probado2res
+    github: prueb2a
+    version: version de prueba2
+  software:
+    name: Molecular Dynamics
+    description: de prueba2
+    developers: los probado2res
+    github: prueb2a
+    version: version de prueba2
+  software:
+    name: phylogen
     description: de prueba2
     developers: los probado2res
     github: prueb2a
     version: version de prueba2
 
-- category: Categoria de prueba3
+- category: Database
+  software:
+    name: Genomics
+    description: de prueb3a
+    developers: los probadores3
+    github: prueba3
+    version: version de pr3ueba 
+  software:
+    name: Protein
+    description: de prueb3a
+    developers: los probadores3
+    github: prueba3
+    version: version de pr3ueba
+  software:
+    name: Molecular Docking
+    description: de prueb3a
+    developers: los probadores3
+    github: prueba3
+    version: version de pr3ueba
+
+
+- category: Developed
   software:
     name: nombre de prue3ba
     description: de prueb3a
