@@ -1,0 +1,7 @@
+- category: categoria de prueba #all categories
+  name: nombre de prueba #name of the software
+  description: de prueba
+  developers: los probadores
+  github: github/prueba
+  version: version de prueba
+  
