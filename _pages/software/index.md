@@ -103,6 +103,7 @@ rank: 3
     // Get the tab navigation buttons and content
     const tabNavButtons = document.querySelectorAll('.tab-nav button');
     const tabContentDivs = document.querySelectorAll('.tab-content div');
+    const tabNavContainer = document.querySelector('.tab-nav');
 
     // Add event listeners to the tab navigation buttons
     tabNavButtons.forEach(button => {
@@ -115,7 +116,14 @@ rank: 3
             button.classList.add('active');
             const tabTarget = button.getAttribute('data-tab-target');
             document.querySelector(tabTarget).classList.add('active');
+
+            // Create a new button and append it to the tab navigation container
+            const newButton = document.createElement('button');
+            newButton.textContent = 'New Button';
+            newButton.addEventListener('click', () => {
+                console.log('New button clicked!');
+            });
+            tabNavContainer.appendChild(newButton);
         });
     });
 </script>
-
