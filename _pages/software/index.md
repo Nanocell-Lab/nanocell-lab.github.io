@@ -11,6 +11,18 @@ rank: 3
     {% for software in site.data.softwares %}
     {% if software.category %}
             <button class="active" data-tab-target="#tab-{{ loop.index }}">{{ software.category }}</button>
+                <div class="tab-content">
+                    <div id="tab1" class="active">
+                        <h2>Category: Categoria de prueba</h2>
+                        <ul>
+                            <li>Name: nombre de prueba</li>
+                            <li>Description: de prueba</li>
+                            <li>Developers: los probadores</li>
+                            <li>Github: <a href="https://github.com/prueba">github/prueba</a></li>
+                            <li>Version: version de prueba</li>
+                        </ul>
+                    </div>
+                </div>
     {% endif %}
     {% endfor %}
     </div>
