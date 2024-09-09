@@ -5,139 +5,137 @@ permalink: /software/
 toggle: on
 rank: 3
 ---
+
 <div class="container">
-    <div class="tab-nav">
-        {% for software in site.data.softwares %}
-        {% if software.category %}
-            <div class="tab-title">{{ software.category }}</div>
-            <div id="tab-{{ forloop.index }}" class="tab-content">
-                <ul>
-                {% for subcategory in software.subcategories %}
-                    <li class="subcategory-item">
-                        <button class="subcategory-button" onclick="showDescription('{{ subcategory.description }}')">
-                            {{ subcategory.name }}
-                        </button>
-                    </li>
-                {% endfor %}
-                </ul>
-            </div>
-        {% endif %}
-        {% endfor %}
-    </div>
-    <div class="sidebar-box" id="sidebar-box">
-        <p>This is a box at the right of the navigation tab.</p>
-    </div>
+  <div class="tab-nav">
+    {% for software in site.data.softwares %}
+      {% if software.category %}
+        <div class="tab-title">{{ software.category }}</div>
+        <div id="tab-{{ forloop.index }}" class="tab-content">
+          <ul>
+            {% for subcategory in software.subcategories %}
+              <li class="subcategory-item">
+                <button class="subcategory-button" data-description="{{ subcategory.description }}">{{ subcategory.name }}</button>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="sidebar-box" id="sidebar-box">
+    <h1><b>Welcome to Our Research Toolkit!</b></h1>
+
+<p>Explore the suite of programs and tools we use to enhance our understanding of the world. Our resources include bioinformatics tools, drug information, chemical properties, and pharmaceutical data. These are integral to our research and findings. Use the navigation bar on the left to access the tools and information that support our scientific work.</p>
+  </div>
 </div>
 
+
 <style>
-    /* Add a container to hold the tab navigation and content */
+    /* Global Styles */
+
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+    body {
+    font-family: Arial, sans-serif;
+    }
+
+    /* Container Styles */
+
     .container {
-        display: flex;
-        flex-direction: row;
+    display: flex;
+    flex-direction: row;
     }
 
-    /* Style the tab navigation menu */
+    /* Tab Navigation Styles */
+
     .tab-nav {
-        flex-basis: 144px; /* set the width of the tab navigation */
-        background-color: #f0f0f0;
-        padding: 10px;
-        display: flex;
-        flex-direction: column;
-        font-size: 14px; /* smaller font size */
-    }
-
-    /* Add styles for the tab-nav-text div */
-    .tab-nav-text {
-        position: absolute; /* position the text at the right side of the tab-nav */
-        right: 10px; /* adjust the position to your liking */
-        top: 10px; /* adjust the position to your liking */
-        font-size: 14px; /* adjust the font size to your liking */
+    flex-basis: 144px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
     }
 
     .tab-title {
-        background-color: #aaa;
-        cursor: pointer;
-        width: 93%;
-        font-weight: bold;
-        font-size: 14px; /* smaller font size */
-        padding-left: 10px; /* add a gap at the left of the word */
+    background-color: #aaa;
+    cursor: pointer;
+    width: 100%;
+    font-weight: bold;
+    font-size: 13px;
+    padding-left: 10px;
     }
 
-    /* Style the tab content */
+    /* Tab Content Styles */
+
     .tab-content {
-        padding: 0px;
-        border: 1px solid #ccc;
-        font-size: 14px; /* smaller font size */
+    padding: 0px;
+    border: 1px solid #ccc;
+    font-size: 14px;
     }
 
     .tab-content ul {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        display: flex; /* make the ul a flex container */
-        flex-wrap: wrap; /* allow buttons to wrap to the next line */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
     }
 
     .tab-content li {
-        flex: 1; /* make each li take equal space */
-        margin-bottom: 5px; /* add a gap between buttons */
+    flex: 1;
+    margin-bottom: 5px;
     }
 
     .tab-content li:first-child {
-        margin-top: 10px; /* remove the gap for the last button */
+    margin-top: 10px;
     }
+
     .tab-content li:last-child {
-        margin-bottom: 10px; /* remove the gap for the last button */
+    margin-bottom: 10px;
     }
 
-    /* Style the subcategory buttons */
+    /* Subcategory Button Styles */
+
     .subcategory-button {
-        background-color: #ddd; /* grey background */
-        border: none;
-        padding: 10px 40px; /* make the button a bit larger */
-        font-size: 10px;
-        cursor: pointer;
-        width: 144px; /* make the button take full width */
+    background-color: #eee;
+    border: none;
+    padding: 5px 10px;
+    font-size: 11px;
+    cursor: pointer;
+    width: 144px;
     }
 
-    .description {
-        padding: 10px 40px; /* make the button a bit larger */
-        font-size: 5px;
-        cursor: pointer;
-        width: 144px; /* make the button take full width */
-    }
     .subcategory-button:hover {
-        background-color: #bbb; /* darker grey on hover */
+    background-color: #bbb;
     }
 
-    /* Add styles for the subcategory item */
-    .subcategory-item {
-        display: flex; /* use flexbox layout */
-        align-items: center; /* center the button and text vertically */
-    }
+    /* Sidebar Box Styles */
 
-    /* Add styles for the subcategory button */
-    .subcategory-button {
-        padding: 5px 10px; /* reduce the padding to make the buttons smaller */
-        font-size: 12px; /* reduce the font size to make the buttons smaller */
-        border: none; /* remove the border to make the buttons look cleaner */
-        background-color: #f0f0f0; /* add a light gray background color */
-        cursor: pointer; /* change the cursor to a pointing hand when hovering over the buttons */
-    }
-
-    /* Add styles for the sidebar box */
     .sidebar-box {
-        flex: 1; /* take up the remaining space */
-        background-color: #fff; /* white background */
-        padding: 20px; /* add some padding */
-        border: 1px solid #ddd; /* add a border */
-        font-size: 15px;
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    padding-top: 5px;
+    border: 1px solid #ddd;
+    font-size: 15px;
     }
 </style>
 
 <script>
-function showDescription(description) {
-    var sidebarBox = document.getElementById('sidebar-box');
-    sidebarBox.innerHTML = '<p>' + description + '</p>';
-}
+// Get the sidebar box element
+const sidebarBox = document.getElementById('sidebar-box');
+
+// Add event listener to subcategory buttons
+document.querySelectorAll('.subcategory-button').forEach(button => {
+  button.addEventListener('click', () => {
+    const description = button.getAttribute('data-description');
+    sidebarBox.innerHTML = `<p>${description}</p>`;
+  });
+});
 </script>
