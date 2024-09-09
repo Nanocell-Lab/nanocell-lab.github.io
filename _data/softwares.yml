@@ -1,19 +1,304 @@
-- category: Software Available
+- category: General
   subcategories:
-    - name: Sequence Alignment
-      description: This subcategory includes software for Sequence Alignment
-    - name: Molecular Docking
-      description: This subcategory includes software for molecular docking simulations.
-    - name: Coevolution
-      description: This subcategory includes software for analyzing coevolutionary relationships.
-    - name: Phylogeny
-      description: This subcategory includes software for reconstructing phylogenetic trees.
-    - name: Molecular Dynamics
-      description: This subcategory includes software for molecular dynamics simulations.
-    - name: Genomics Comparative
-      description: This subcategory includes software for comparative genomics.
+    - name: Software Develops
+      description: >
+        <h1><b>Software Develops</b></h1>
+        <p>In cancer research, particularly in the realm of molecular dynamics (MD) and multiomics integration, the development and use of specialized software tools play a critical role in understanding the molecular mechanisms driving cancer. These tools, ranging from general-purpose programming languages like Python and R to encapsulated software designed specifically for scientific computing, allow researchers to simulate molecular interactions, analyze massive datasets, and integrate diverse biological data to identify potential therapeutic targets.
+        
+        <p><b>Python</b>
+        <p>Python is an open-source, high-level programming language known for its simplicity and versatility. It has become one of the most popular languages for scientific computing, data analysis, and machine learning due to its extensive ecosystem of libraries. Python’s syntax is easy to learn and use, making it a favorite among both beginners and experienced developers. The language supports multiple programming paradigms, including procedural, object-oriented, and functional programming, making it highly adaptable for various applications.
+        <ul><small><i>
+        <li>Biopython. Cock, P. J., Antao, T., Chang, J. T., Chapman, B. A., Cox, C. J., Dalke, A., Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., & de Hoon, M. J. L. (2009). Biopython: Freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics, 25(11), 1422–1423. https://doi.org/10.1093/bioinformatics/btp163
+        <li>PANDAS. McKinney, W. (2010). Data structures for statistical computing in Python. In Proceedings of the 9th Python in Science Conference (pp. 51–56). https://doi.org/10.25080/Majora-92bf1922-00a
+        <li>Scikit-learn. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
+        <li>Streamlit. Streamlit. (n.d.). Streamlit documentation. https://docs.streamlit.io/
+        </i></small></ul>
 
-- category: Own Developed
+        <p><b>R</b></p>
+        <p>R is a programming language and environment used primarily for statistical computing and data analysis. Developed by Ross Ihaka and Robert Gentleman in the early 1990s, R is widely used for its robust statistical capabilities and extensive package ecosystem. It provides a wide range of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, and clustering. R is known for its flexibility and extensibility, allowing users to write their own functions and packages to extend its functionality.
+        <ul><small><i>
+        <li>Rstudio. R Core Team. (2024). R: A language and environment for statistical computing. R Foundation for Statistical Computing. Retrieved from https://www.R-project.org
+        </i></small></ul>
+
+        <p><b>Work Remote and Maintain Files</b></p>
+        <p>Working remotely and maintaining files efficiently is crucial, especially in the context of cancer research where large datasets are frequently used and shared across different institutions. Tools like tmux, cron, scp, rsync, gdc-client, and gdown are instrumental in this context. Let’s break down these tools and provide relevant examples for cancer research.
+        <p><b>Tmux</b> Example: While analyzing next-generation sequencing (NGS) data remotely for a breast cancer study, you can initiate a process within a tmux session. If your connection drops, you can reconnect later and resume your session without losing progress.</p>
+        <pre><code> tmux new -s breast_cancer_analysis 
+        <br>
+        # Run your analysis script inside the session  
+        <br>
+        bash analyze_breast_cancer_data.sh </code></pre>
+        <p><b>Cron</b> Example: Schedule a cron job to download updated TCGA (The Cancer Genome Atlas) data every night at 2 AM.</p>
+        <pre><code>0 2 * * * /path/to/gdc-client download -m manifest.txt</code></pre>
+
+        <p><b>ssh. scp</b></p>
+        <pre><code>scp results/mutational_signatures.csv user@remote.server.com:/path/to/directory/</pre></code>
+        <p><b>rsync</b></p>
+        <pre><code>rsync -avh /data/sequencing/ user@remote.server.com:/backup/sequencing/</pre></code>
+        <p><b>gdc-client</b></p>
+        <pre><code>gdc-client download -m glioblastoma_rna_seq_manifest.txt</pre></code>
+        <p><b>gdown</b></p>
+        <pre><code>gdown https://drive.google.com/uc?id=FILE_ID</pre></code>
+
+        <p><b>Subversions</b></p>
+        <p>Version control software, also known as revision control or source control, is a system that helps manage changes to source code or documents over time. It allows multiple users to collaborate on projects, tracking modifications, maintaining a history of revisions, and enabling the restoration of previous versions if needed. Version control software is essential for both individual and team-based projects, ensuring consistency and enabling rollback in case of errors.
+        <ul><small><i><li>GIT. Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). Apress. https://doi.org/10.1007/978-1-4842-0076-6 </i></small></ul>
+
+        <p><b>Encapsuled</b>
+        <p>Encapsulated software refers to a computational tool or application that is bundled in a self-contained environment, including all its dependencies, configurations, and required libraries. This encapsulation ensures consistent functionality across different systems, eliminating compatibility issues and making the software more portable and reproducible in various environments.
+        <ul><small><i>
+        <li>Conda. Anaconda, Inc. (n.d.). Conda documentation. https://docs.conda.io/en/latest/
+        <li>Snakemake. Köster, J., & Rahmann, S. (2012). Snakemake: A scalable bioinformatics workflow engine. Bioinformatics, 28(19), 2520–2522. https://doi.org/10.1093/bioinformatics/bts480
+        <li>Nextflow. Di Tommaso, P., Chatzou, M., Floden, E. F., Barja, P. P., Palumbo, E., & Notredame, C. (2017). Nextflow enables reproducible computational workflows. Nature Biotechnology, 35(4), 316–319. https://doi.org/10.1038/nbt.3820
+        <li>NF-core. Ewels, P., Magnusson, M., Lundin, S., & Käller, M. (2020). nf-core: a community effort to collect a curated set of analysis pipelines. Nature Biotechnology, 38(3), 270-271. https://doi.org/10.1038/s41587-020-0431-3
+        <li>Docker. Merkel, D. (2014). Docker: Lightweight Linux containers for consistent development and deployment. Linux Journal, 2014(239), 2.
+        <li>Singularity. Kurtzer, G. M., Sochat, V., & Bauer, M. W. (2017). Singularity: Scientific containers for mobility of compute. PLoS ONE, 12(5), e0177459. https://doi.org/10.1371/journal.pone.0177459
+        </i></small></ul>
+    - name: Sequence Alignment
+      description: >
+        <h1><b>Sequence Alignment</b></h1>
+        <p>Sequence alignment software is an essential tool in bioinformatics and genomics that helps in arranging sequences of DNA, RNA, or proteins to identify regions of similarity. These similarities may indicate functional, structural, or evolutionary relationships between the sequences. There are two main applications of sequence alignments:
+        <p><b>A. Similar Search.</b> These is the process of finding regions of similarity between a query sequence and sequences in a database. This approach is often used to identify homologous sequences (sequences derived from a common ancestor), predict the function of an unknown sequence, or find sequences that share a particular motif or domain.
+        <ul><small><i>
+        <li>BLAST. Altschul, S. F., Gish, W., Miller, W., Myers, E. W., & Lipman, D. J. (1990). Basic local alignment search tool. Journal of Molecular Biology, 215(3), 403-410. https://doi.org/10.1016/S0022-2836(05)80360-2
+        <li>FASTA. Pearson, W. R. (2000). Flexible sequence similarity searching with the FASTA3 program package. Methods in Molecular Biology, 132, 185-219. https://doi.org/10.1385/1-59259-192-2:185
+        <li>Diamond. Buchfink, B., Xie, C., & Huson, D. H. (2015). Fast and sensitive protein alignment using DIAMOND. Nature Methods, 12(1), 59-60. https://doi.org/10.1038/nmeth.3176
+        </i></small></ul>
+
+        <p><b>B. Multiple Sequence Alignment (MSA).</b> These process involves aligning three or more sequences simultaneously to identify conserved regions, motifs, or patterns across all the sequences. This method is crucial in comparative genomics, phylogenetics, and functional annotation.
+        <ul><small><i>
+        <li>ClustalO. Sievers, F., & Higgins, D. G. (2014). Clustal Omega, accurate alignment of very large numbers of sequences. In Multiple Sequence Alignment Methods (pp. 105-116). Humana Press. https://doi.org/10.1007/978-1-62703-646-7_6
+        <li>MAFFT. Katoh, K., & Standley, D. M. (2013). MAFFT multiple sequence alignment software version 7: Improvements in performance and usability. Molecular Biology and Evolution, 30(4), 772-780. https://doi.org/10.1093/molbev/mst010
+        <li>Muscle. Edgar, R. C. (2004). MUSCLE: Multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research, 32(5), 1792-1797. https://doi.org/10.1093/nar/gkh340
+        <li>T-Coffee. Notredame, C., Higgins, D. G., & Heringa, J. (2000). T-Coffee: A novel method for fast and accurate multiple sequence alignment. Journal of Molecular Biology, 302(1), 205-217. https://doi.org/10.1006/jmbi.2000.4042
+        </i></small></ul>
+- category: Sequence Dynamics
   subcategories:
-    - name: holi
-      description: This is a description for the holi subcategory.
+    - name: Phylogeny
+      description : >
+        <h1><b>Phylogeny</b></h1>
+        <p>Phylogeny software refers to computational tools used to infer the evolutionary relationships among species or genes, typically represented in the form of a phylogenetic tree. These tools are essential in bioinformatics, evolutionary biology, and genomics. They utilize various algorithms and models to analyze genetic sequences, morphological data, or other types of biological information to construct these evolutionary trees.
+        <p><b>A. Tree calculation.</b>
+        <ul><small><i>
+        <li>RAxML. Example: Stamatakis, A. (2014). RAxML version 8: A tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics, 30(9), 1312-1313. https://doi.org/10.1093/bioinformatics/btu033
+        <li>BEAST. Example: Drummond, A. J., & Rambaut, A. (2007). BEAST: Bayesian evolutionary analysis by sampling trees. BMC Evolutionary Biology, 7(1), 214. https://doi.org/10.1186/1471-2148-7-214
+        <li>BayesPhylogenie. Pagel, M., Meade, A., & Barker, D. (2004). Bayesian estimation of ancestral character states on phylogenies. Systematic Biology, 53(5), 673-684. https://doi.org/10.1080/10635150490522232
+        </i></small></ul>
+
+        <p><b>B. Vissualization Tools.</b>
+        <ul><small><i>
+        <li>iTOL. Letunic, I., & Bork, P. (2021). Interactive Tree of Life (iTOL) v5: An online tool for phylogenetic tree display and annotation. Nucleic Acids Research, 49(W1), W293-W296. https://doi.org/10.1093/nar/gkab301
+        <li>APE in R. Paradis, E., Claude, J., & Strimmer, K. (2004). APE: Analyses of Phylogenetics and Evolution in R language. Bioinformatics, 20(2), 289-290. https://doi.org/10.1093/bioinformatics/btg412
+        </i></small></ul>
+    - name: Coevolution
+      description : >
+        <h1><b>Coevolution</b></h1>
+        <p>The coevolution software is designed to analyze and visualize coevolutionary relationships between proteins, genes, or other biological entities. Coevolution occurs when two or more species, genes, or proteins influence each other's evolution over time, often due to interactions such as host-parasite relationships, protein-protein interactions, or enzyme-substrate dynamics.
+        <p><b>A. Mutual Information methods</b> detect coevolution by measuring the statistical dependence between pairs of positions in a multiple sequence alignment (MSA). A high mutual information score between two positions suggests that changes in one position are correlated with changes in another, indicating possible coevolution.
+        <ul><small><i>
+        <li>MISTIC. Simonetti, F. L., Teppa, E., Chernomoretz, A., Nielsen, M., & Marino Buslje, C. (2013). MISTIC: Mutual information server to infer coevolution. Nucleic Acids Research, 41(W1), W8–W14. https://doi.org/10.1093/nar/gkt427
+        </i></small></ul>
+
+        <p><b>B. Direct Coupling Analysis methods</b> predict coevolution by analyzing the direct interactions between positions in an MSA, controlling for indirect correlations caused by shared ancestry or other factors. DCA can provide more accurate predictions of physical interactions, such as protein-protein contacts.
+        <ul><small><i>
+        <li>EVcouplings. Hopf, T. A., Schärfe, C. P. I., Rodrigues, J. P. G. L. M., Green, A. G., Kohlbacher, O., Sander, C., & Marks, D. S. (2014). Sequence co-evolution gives 3D contacts and structures of protein complexes. eLife, 3, e03430. https://doi.org/10.7554/eLife.03430
+        <li>plmDCA. Ekeberg, M., Lövkvist, C., Lan, Y., Weigt, M., & Aurell, E. (2013). Improved contact prediction in proteins: Using pseudolikelihoods to infer Potts models. Physical Review E, 87(1), 012707. https://doi.org/10.1103/PhysRevE.87.012707
+        <li>PLMC. https://github.com/debbiemarkslab/plmc
+        <li>pyDCA. https://pypi.org/project/pydca/
+        <li>Prody. Bakan, A., Meireles, L. M., & Bahar, I. (2011). ProDy: Protein dynamics inferred from theory and experiments. Bioinformatics, 27(11), 1575-1577. DOI: 10.1093/bioinformatics/btr168
+        </i></small></ul>
+
+
+    - name: Genomics Comparative
+      description : >
+        <h1><b>Genomics Comparative</b></h1>
+        <p>Comparative Genomics is a field of biological research that involves comparing the genome sequences of different species to identify similarities and differences. By analyzing and comparing the structure, function, and evolutionary relationships of genes across species, researchers can gain insights into the biology, evolution, and functional mechanisms of various organisms.              
+        <p><b>A. Differential Expression</b> Analysis is a statistical approach used to identify genes or features that show significant differences in expression levels between different conditions or groups. This analysis is crucial in genomics and transcriptomics to understand how gene expression varies with different experimental conditions, such as disease states, treatments, or time points.
+        <ul><small><i>
+        <li>Deseq2. Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12), 550. https://doi.org/10.1186/s13059-014-0550-8
+        <li>EdgeR. Robinson, M. D., McCarthy, D. J., & Smyth, G. K. (2010). edgeR: a Bioconductor package for differential expression analysis of digital gene expression data. Bioinformatics, 26(1), 139-140. https://doi.org/10.1093/bioinformatics/btp616
+        <li>Limma. Ritchie, M. E., Phipson, B., Wu, D., Hu, Y., Law, C. W., Shi, W., & Smyth, G. K. (2015). limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Research, 43(7), e47. https://doi.org/10.1093/nar/gkv007
+        </i></small></ul>
+
+        <p><b>B. Functional annotation</b> is a crucial process in bioinformatics where biological functions are assigned to genes, proteins, or other biological sequences. This process links raw genomic or proteomic data with biological knowledge, enabling researchers to understand the roles that specific sequences play within a cell or organism. Functional annotation often involves identifying gene functions, protein families, pathways, and molecular interactions.
+        <ul><small><i>
+        <li>BUSCO. Seppey, M., Manni, M., & Zdobnov, E. M. (2019). BUSCO: Assessing genome assembly and annotation completeness. In M. Kollmar (Ed.), Gene prediction: Methods and protocols (pp. 227-245). Humana. https://doi.org/10.1007/978-1-4939-9173-0_14
+        <li>EggNOG-Mapper. Cantalapiedra, C. P., Hernández-Plaza, A., Letunic, I., Bork, P., & Huerta-Cepas, J. (2021). eggNOG-Mapper v2: Functional annotation, orthology assignments, and domain prediction at the metagenomic scale. Molecular Biology and Evolution, 38(12), 5825–5829. https://doi.org/10.1093/molbev/msab293
+        <li>Liftoff. Shumate, A., & Salzberg, S. L. (2021). Liftoff: Accurate mapping of gene annotations to newly assembled genomes. Bioinformatics, 37(3), 1639–1643. https://doi.org/10.1093/bioinformatics/btaa1016
+        </i></small></ul>
+
+        <p><b>C. Taxonomic classification</b> is a fundamental process in bioinformatics that assigns DNA or RNA sequences to specific taxonomic groups, such as species, genus, family, or higher ranks. This is particularly crucial in metagenomics, where researchers analyze genetic material recovered directly from environmental samples (e.g., soil, water, or human microbiomes) to identify and characterize organisms present in complex communities.
+        <i><small><ul>  
+        <li> Kraken. Wood, D. E., & Salzberg, S. L. (2014). Kraken: Ultrafast metagenomic sequence classification using exact alignments. Genome Biology, 15(3), R46. https://doi.org/10.1186/gb-2014-15-3-r46      
+        </i></small></ul>
+    
+    - name: Human MultiOmics in Cancer Integration
+      description : >
+        <h1><b>Human MultiOmics in Cancer Integration</b></h1>
+        <p>In cancer research, multiomics approaches are used to integrate genomic mutations, changes in gene expression, altered protein levels, and metabolic shifts. This provides a full picture of tumor biology, allowing researchers to identify key drivers of cancer and potential therapeutic targets.
+        <p>For instance, integrating <b>genomic</b> data from cancer cells (e.g., identifying mutations in oncogenes), <b>transcriptomic</b> data (e.g., overexpression of genes associated with cancer), and <b>proteomic</b> data (e.g., protein interactions driving cell growth) can pinpoint specific pathways involved in tumor growth. Additionally, studying the <b>metabolomics</b> profile can reveal metabolic reprogramming in cancer cells, which is often a hallmark of malignancy.
+        
+        <p><b>A. Human Annotation Software.</b> In genomics involves assigning functional information to genomic variants, such as single nucleotide polymorphisms (SNPs) or insertions/deletions (indels). This process helps to interpret the potential biological impact of these variants, which can be critical for understanding genetic diseases, personalized medicine, and functional genomics.
+        <i><small><ul>
+        <li>AnnovaR. Wang, K., Li, M., & Hakonarson, H. (2010). ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data. Nucleic Acids Research, 38(16), e164. https://doi.org/10.1093/nar/gkq603
+        <li>Funconator. GATK Development Team. (2019). Funcotator: a variant annotation tool for the GATK. https://software.broadinstitute.org/gatk/documentation/article?id=11412
+        <li>VEP. McLaren, W., Gil, L., Hunt, S. E., et al. (2016). The Ensembl variant effect predictor. Genome Biology, 17(1), 122. https://doi.org/10.1186/s13059-016-0974-4
+        <li>CADD. Kircher, M., Witten, D. M., Jain, P., et al. (2014). A general framework for estimating the relative pathogenicity of human genetic variants. Nature Genetics, 46(3), 310-315. https://doi.org/10.1038/ng.2892
+        <li>CIViCpy. Wagner AH, Kiwala S, Coffman AC, McMichael JF, Cotto KC, Mooney TB, Barnell EK, Krysiak K, Danos AM, Walker J, Griffith OL, Griffith M. CIViCpy: A Python Software Development and Analysis Toolkit for the CIViC Knowledgebase. JCO Clin Cancer Inform. 2020 Mar;4:245-253. doi: 10.1200/CCI.19.00127. PMID: 32191543; PMCID: PMC7113080.  
+        </i></small></ul>
+
+        <p><b>B. Human Annotation Databases</b> provide valuable resources for interpreting genetic variants by offering information on their associations with diseases, drug responses, and other functional aspects. These databases help researchers and clinicians understand the potential impacts of genetic variations on health and disease.       
+        <i><small><ul>
+        <li>COSMIC. Tate, J. G., Bamford, S., Jubb, H. C., et al. (2019). COSMIC: the Catalogue Of Somatic Mutations In Cancer. Nucleic Acids Research, 47(D1), D941-D947. https://doi.org/10.1093/nar/gky1015
+        <li>Civic. Tate, J. G., & C. D. M. G. V. C. (2020). CIViC: A community-driven knowledge base for the clinical interpretation of variants in cancer. Nature Communications, 11, 626. https://doi.org/10.1038/s41467-019-14283-6
+        <li>OncoKb. Chakravarty, D., Gao, J., Phillips, S., et al. (2017). OncoKB: A Precision Oncology Knowledge Base. Journal ofCO, 35(15_suppl), 85. https://doi.org/10.1200/JCO.2017.35.15_suppl.85
+        <li>PharmGkb. St Jean, P. L., K. G. E. T. D. C. H. (2020). PharmGKB: A Resource for the Clinical Implementation of Pharmacogenomic Information. Journal of Pharmacogenomics and Pharmacokinetics, 36, 256-263. https://doi.org/10.1136/jclinpharm.2020.00324
+        <li>dbSNP. Sherry, S. T., Ward, M., & Kholodov, M. (2001). dbSNP: the NCBI database of genetic variation. Nucleic Acids Research, 29(1), 308-311. https://doi.org/10.1093/nar/29.1.308
+        <li>ClinVar. Landrum, M. J., Chitipiralla, S., Brown, G. R., et al. (2018). ClinVar: improving access to variant interpretations and supporting evidence. Nucleic Acids Research, 46(D1), D1062-D1067. https://doi.org/10.1093/nar/gkx1153
+        <li>GnomaD. Karczewski, K. J., Francioli, L. C., Tiao, G., et al. (2020). The mutational constraint spectrum quantified from variation in 141,456 humans. Nature, 581(7809), 434-443. https://doi.org/10.1038/s41586-020-2308-7
+        </i></small></ul>
+
+
+        <p><b>C. Visualization and Analysis of Human VCF (Variant Call Format) Files </b>involve using specialized tools to interpret and display genetic variant data. VCF files contain information about genetic variants such as SNPs and indels, including their locations, types, and effects. Tools for visualizing and analyzing VCF files help researchers understand the implications of these variants in a biological context.
+        <i><small><ul>
+        <li>MAFTools. Mayakonda, A., Lin, D. C., Assenov, Y., et al. (2018). maftools: Efficient and comprehensive analysis of somatic variants in cancer. Nucleic Acids Research, 46(8), e43. https://doi.org/10.1093/nar/gky398
+        <li>IGV. Robinson, J. T., Thorvaldsdóttir, H., Winckler, W., et al. (2017). Integrative Genomics Viewer. Nature Biotechnology, 29(1), 24-26. https://doi.org/10.1038/nbt.1754
+        <li>OpenCRAVAT. Pagel KA, Kim R, Moad K, Busby B, Zheng L, Tokheim C, Ryan M, Karchin R. Integrated Informatics Analysis of Cancer-Related Variants. JCO Clin Cancer Inform. 2020 Mar;4:310-317. doi: 10.1200/CCI.19.00132. 
+        </i></small></ul>
+- category: Structure Dynamics
+  subcategories:
+    - name: Molecular Docking
+      description : >
+        <h1><b>Molecular Docking</b></h1>
+        <p>Docking molecular software is a crucial tool in computational chemistry and molecular biology, used primarily for predicting the interaction between two molecules, such as a protein and a ligand. The primary goal of molecular docking is to predict the preferred orientation of one molecule to another when they are bound to each other to form a stable complex. This process is vital for drug design, as it helps in identifying potential drug candidates by predicting how small molecules (ligands) interact with target proteins.
+        <p><b>A. Protein-protein docking</b> focuses on predicting the structure of complexes formed by two or more proteins. These interactions are fundamental to many biological processes, including signal transduction, immune responses, and metabolic pathways. The challenge in protein-protein docking arises from the large interface area and the flexibility of the interacting proteins, making it a complex task.
+        <i><small><ul>      
+        <li>HADDOCK. van Zundert, G. C. P., Rodrigues, J. P. G. L. M., Trellet, M., Schmitz, C., Kastritis, P. L., Karaca, E., ... & Bonvin, A. M. J. J. (2016). The HADDOCK2.2 web server: User-friendly integrative modeling of biomolecular complexes. Journal of Molecular Biology, 428(4), 720-725. https://doi.org/10.1016/j.jmb.2015.09.014
+        <li>Lightdock. Roel-Touris, J., Bonvin, A., & Jiménez-García, B. (2019). LightDock goes information-driven. Bioinformatics, 36(3), 950-952. https://doi.org/10.1093/bioinformatics/btz642
+        <li>Megadock. Masahito Ohue, Takehiro Shimoda, Shuji Suzuki, Yuri Matsuzaki, Takashi Ishida, Yutaka Akiyama. MEGADOCK 4.0: an ultra-high-performance protein-protein docking software for heterogeneous supercomputers, Bioinformatics, 30(22): 3281-3283, 2014. http://doi.org/10.1093/bioinformatics/btu532
+        <li>ZDOCK. Pierce, B. G., Wiehe, K., Hwang, H., Kim, B. H., Vreven, T., & Weng, Z. (2014). ZDOCK server: Interactive docking prediction of protein-protein complexes and symmetric multimers. Bioinformatics, 30(12), 1771-1773. https://doi.org/10.1093/bioinformatics/btu097
+        <li>FoldX. Delgado Blanco, J., Radusky, L. G., Climente-González, H., & Serrano, L. (2018). FoldX accurate structural protein–DNA binding prediction using PADA1 (Protein Assisted DNA Assembly 1). Nucleic Acids Research, 46(8), 3852–3862. https://doi.org/10.1093/nar/gky228  
+        </i></small></ul>
+
+        <p><b>B. Protein-ligand docking</b> focuses on predicting the preferred orientation of a small molecule (ligand) when bound to a protein receptor. This category of docking is particularly important in drug discovery, where the goal is to find or design small molecules that can modulate the activity of a target protein, such as an enzyme or a receptor.
+        <i><small><ul>      
+        <li>Autodock. Morris, G. M., Huey, R., Olson, A. J., Goodsell, D. S., Forli, S., Pique, M. E., & Sanner, M. F. (2016). Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nature Protocols, 11(5), 905-919. https://doi.org/10.1038/nprot.2016.051
+        <li>AutoDock Vina. Trott, O., & Olson, A. J. (2010). AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading. Journal of Computational Chemistry, 31(2), 455-461. https://doi.org/10.1002/jcc.21334
+        <li>Smina. Koes, D., Baumgartner, M. P., & Camacho, C. (2013). Lessons learned in empirical scoring with smina from the CSAR 2011 benchmarking exercise. Journal of Chemical Information and Modeling, 53(8), 1893-1904. https://doi.org/10.1021/ci300604z
+        <li>Qvina. Alhossary, A. A., Handoko, S. D., Mu, Y., & Kwoh, C. K. (2015). Fast, accurate, and reliable molecular docking with QuickVina 2. Bioinformatics, 31(13), 2214-2216. https://doi.org/10.1093/bioinformatics/btv082
+        <li>AutoDockFR. Ravindranath, P., Forli, S., Goodsell, D., Olson, A., & Sanner, M. (2015). AutoDockFR: Advances in protein-ligand docking with explicitly specified binding site flexibility. PLOS Computational Biology, 11(12), e1004586. https://doi.org/10.1371/journal.pcbi.1004586
+        <li>DOCK6. Lang, P. T., Brozell, S. R., Mukherjee, S., Pettersen, E. F., Meng, E. C., Thomas, V., ... & Kuntz, I. D. (2009). DOCK 6: Combining techniques to model RNA-small molecule complexes. RNA, 15(6), 1219-1230. https://doi.org/10.1261/rna.1563609
+        <li>PyRx. Dallakyan, S., & Olson, A. J. (2015). Small-molecule library screening by docking with PyRx. In Chemical Biology (pp. 243-250). Springer. https://doi.org/10.1007/978-1-4939-2269-7_19
+        <li>Autogrow. Spiegel, J. O., & Durrant, J. D. (2020). AutoGrow4: An open-source genetic algorithm for de novo drug design and lead optimization. Journal of Cheminformatics, 12(1), 1-15. https://doi.org/10.1186/s13321-020-00429-4
+        <li>Caverdock. Filipovič, J., Vávra, O., Plhak, J., Bednář, D., Marques, S. M., Brezovsky, J., Matyska, L., & Damborský, J. (2018). CaverDock: A novel method for the fast analysis of ligand transport. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 17(5), 1533-1545. https://doi.org/10.1109/TCBB.2019.2907492
+        <li>Amsol. Hawkins, G. D., Giesen, D. J., Lynch, G. C., Chambers, C. C., Rossi, I., Storer, J. W., Li, J., Zhu, T., Thompson, J. D., Winget, P., & Lynch, B. J. (2004). AMSOL Version 7.1. University of Minnesota.
+        <li>Fpocket. Guilloux, V., Schmidtke, P., & Tufféry, P. (2009). Fpocket: An open source platform for ligand pocket detection. BMC Bioinformatics, 10, 168. https://doi.org/10.1186/1471-2105-10-168
+        </i></small></ul>
+
+        <p><b>C. Docking libraries and tools</b> are essential in facilitating the docking process by converting file formats, calculating molecular properties, and preparing molecular structures for docking. They streamline workflows for structure-based virtual screening, molecular docking simulations, and binding affinity predictions.
+        <i><small><ul>      
+        <li>RDkit. Landrum, G. (2016). RDKit: Open-source cheminformatics. GitHub repository. https://www.rdkit.org
+        <li>Openbabel. O'Boyle, N. M., Banck, M., James, C. A., Morley, C., Vandermeersch, T., & Hutchison, G. R. (2011). Open Babel: An open chemical toolbox. Journal of Cheminformatics, 3(1), 33. https://doi.org/10.1186/1758-2946-3-33
+        <li>Balloon. Vainio MJ, Johnson MS. Generating conformer ensembles using a multiobjective genetic algorithm. J Chem Inf Model. 2007 Nov-Dec;47(6):2462-74. doi: 10.1021/ci6005646. Epub 2007 Sep 25. PMID: 17892278.
+        <li>Gypsum-DL. Ropp, P. J., Kaminsky, J. C., Yablonski, S., & Durrant, J. D. (2019). Gypsum-DL: An open-source program for preparing small-molecule libraries for structure-based virtual screening. Journal of Cheminformatics, 11(1), 34. https://doi.org/10.1186/s13321-019-0368-6
+        <li>ZINC Database. Irwin, J. J., & Shoichet, B. K. (2005). ZINC: A free database of commercially available compounds for virtual screening. Journal of Chemical Information and Modeling, 45(1), 177–182. https://doi.org/10.1021/ci049714+
+        <li>ChemBL. Gaulton, A., Hersey, A., Nowotka, M., Bento, A. P., Chambers, J., Mendez, D., Mutowo, P., Atkinson, F., Bellis, L. J., Cibrian-Uhalte, E., Davies, M., Dedman, N., Karlsson, A., Magarinos, M. P., Overington, J. P., Papadatos, G., Smit, I., & Leach, A. R. (2017). The ChEMBL database in 2017. Nucleic Acids Research, 45(D1), D945-D954. https://doi.org/10.1093/nar/gkw1074
+        <li>Vitas-M. Commercial Database.
+        </i></small></ul>
+
+        <p><b>D. Analysis.</b> Docking analysis tools are essential for understanding and visualizing the interactions between ligands (such as small molecules or drugs) and macromolecular targets (like proteins). These tools provide detailed insights into binding modes, interaction types, and energy scores, which are crucial for drug discovery and rational design.
+        <i><small><ul>      
+        <li>LigPlot+. Laskowski, R. A., & Swindells, M. B. (2011). LigPlot+: Multiple ligand–protein interaction diagrams for drug discovery. Journal of Chemical Information and Modeling, 51(10), 2778–2786. https://doi.org/10.1021/ci200227u
+        <li>PLIP. Salentin, S., Schreiber, S., Haupt, V. J., Adasme, M. F., & Schroeder, M. (2015). PLIP: Fully automated protein–ligand interaction profiler. Nucleic Acids Research, 43(W1), W443-W447. https://doi.org/10.1093/nar/gkv315
+        <li>NetworkX. Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). Exploring network structure, dynamics, and function using NetworkX. Proceedings of the 7th Python in Science Conference (SciPy2008), 11–15. https://networkx.github.io
+        </i></small></ul>
+
+    - name: Molecular Dynamics
+      description : >
+        <h1><b>Molecular Dynamics</b></h1>
+        <p>Molecular dynamics (MD) software is a crucial tool in computational chemistry, biophysics, and materials science, enabling researchers to simulate the physical movements of atoms and molecules over time. This method allows the study of complex systems at the atomic level, providing insights into molecular interactions, conformational changes, and the thermodynamics of the system.
+        
+        <p><b>A. Integrator software</b> is responsible for solving the equations of motion to simulate the time evolution of atomic and molecular systems.
+        <i><small><ul>    
+        <li>AMBER. Case, D. A., Cheatham III, T. E., Darden, T., Gohlke, H., Luo, R., Merz Jr, K. M., ... & Woods, R. J. (2005). The Amber biomolecular simulation programs. Journal of Computational Chemistry, 26(16), 1668-1688. DOI: 10.1002/jcc.20290
+        <li>GROMACS. Van Der Spoel, D., Lindahl, E., Hess, B., Groenhof, G., Mark, A. E., & Berendsen, H. J. C. (2005). GROMACS: Fast, flexible, and free. Journal of Computational Chemistry, 26(16), 1701-1718. DOI: 10.1002/jcc.20291
+        <li>NAMD. Phillips, J. C., Braun, R., Wang, W., Gumbart, J., Tajkhorshid, E., Villa, E., ... & Schulten, K. (2005). Scalable molecular dynamics with NAMD. Journal of Computational Chemistry, 26(16), 1781-1802. DOI: 10.1002/jcc.20289
+        <li>Desmond. Bowers, K. J., Chow, E., Xu, H., Dror, R. O., Eastwood, M. P., Gregersen, B. A., ... & Shaw, D. E. (2006). Scalable algorithms for molecular dynamics simulations on commodity clusters. Proceedings of the ACM/IEEE SC 2006 Conference, 43-43. DOI: 10.1109/SC.2006.49
+        <li>OpenMM. Eastman, P., Swails, J., Chodera, J. D., McGibbon, R. T., Zhao, Y., Beauchamp, K. A., ... & Pande, V. S. (2017). OpenMM 7: Rapid development of high performance algorithms for molecular dynamics. PLoS Computational Biology, 13(7), e1005659. DOI: 10.1371/journal.pcbi.1005659
+        </i></small></ul>
+
+        <p><b>B. Analysis software</b> is used for processing and interpreting the data obtained from MD simulations.
+        <i><small><ul>      
+        <li>VMD. Humphrey, W., Dalke, A., & Schulten, K. (1996). VMD: Visual molecular dynamics. Journal of Molecular Graphics, 14(1), 33-38. DOI: 10.1016/0263-7855(96)00018-5
+        <li>Pymol. Schrödinger, L. L. C. (2015). PyMOL molecular graphics system. Version 1.8. Retrieved from http://www.pymol.org (Note: PyMOL does not have a formal DOI as it is distributed as software)
+        <li>ChimeraX. Pettersen, E. F., Goddard, T. D., Huang, C. C., Couch, G. S., Greenblatt, D. M., Meng, E. C., & Ferrin, T. E. (2021). UCSF ChimeraX: Structure visualization for researchers, educators, and developers. Protein Science, 30(1), 70-82. DOI: 10.1002/pro.3943
+        <li>CCPTraj. Roe, D. R., & Cheatham III, T. E. (2013). PTRAJ and CPPTRAJ: Software for processing and analysis of molecular dynamics trajectory data. Journal of Chemical Theory and Computation, 9(7), 3084-3095. DOI: 10.1021/ct400341p
+        <li>MDTraj. McGibbon, R. T., Beauchamp, K. A., Harrigan, M. P., Klein, C., Swails, J. M., Hernández, C. X., ... & Pande, V. S. (2015). MDTraj: A modern open library for the analysis of molecular dynamics trajectories. Biophysical Journal, 109(8), 1528-1532. DOI: 10.1016/j.bpj.2015.08.015
+        <li>MDAnalysis. Michaud-Agrawal, N., Denning, E. J., Woolf, T. B., & Beckstein, O. (2011). MDAnalysis: A toolkit for the analysis of molecular dynamics simulations. Journal of Computational Chemistry, 32(10), 2319-2327. DOI: 10.1002/jcc.21787
+        <li>Prody. Bakan, A., Meireles, L. M., & Bahar, I. (2011). ProDy: Protein dynamics inferred from theory and experiments. Bioinformatics, 27(11), 1575-1577. DOI: 10.1093/bioinformatics/btr168
+        <li>Q6. Vitalis, A., & Pappu, R. V. (2009). ABSINTH: A new continuum solvation model for simulations of polypeptides in aqueous solutions. Journal of Computational Chemistry, 30(5), 673-699. https://doi.org/10.1002/jcc.21122
+        <li>Sietraj. Cui, Q.; Sulea, T.; Schrag, J. D.; Munger, C.; Hung,M.-N.; Naïm, M., Cygler, M.; Purisima, E. O. Molecular Dynamics and Solvated Interaction Energy Studies of Protein-Protein Interactions: the MP1-p14 Scaffolding Complex. J. Mol. Biol. 2008, 379, 787-802.
+        </i></small></ul>
+
+        <p><b>C. Cannonical Force Fields</b> define the potential energy functions used in MD simulations to describe atomic and molecular interactions.        
+        <i><small><ul>      
+        <li>CHARMM. Brooks, B. R., Brooks III, C. L., Mackerell, A. D., Nilsson, L., Petrella, R., Roux, B., ... & Won, Y. (2009). CHARMM: The biomolecular simulation program. Journal of Computational Chemistry, 30(10), 1545-1614. DOI: 10.1002/jcc.21287.
+        <li>AMBER. Case, D. A., Cheatham III, T. E., Darden, T., Gohlke, H., Luo, R., Merz Jr, K. M., ... & Woods, R. J. (2005). The Amber biomolecular simulation programs. Journal of Computational Chemistry, 26(16), 1668-1688. DOI: 10.1002/jcc.20290.
+        <li>OPLS. Jorgensen, W. L., Maxwell, D. S., & Tirado-Rives, J. (1996). Development and testing of the OPLS all-atom force field on conformational energetics and properties of organic liquids. Journal of the American Chemical Society, 118(45), 11225-11236. DOI: 10.1021/ja9621760
+        </i></small></ul>
+
+        <p><b>Coarse-grained force fields</b> simplify the molecular representation to reduce computational complexity and extend the simulation time scales.
+        <i><small><ul>      
+        <li>SIRAH. The SIRAH force field: A new coarse-grained model for proteins and lipids. Journal of Chemical Theory and Computation, 12(12), 644-661. DOI: 10.1021/acs.jctc.6b00651
+        <li>MARTINI. Marrink, S. J., Risselada, H. J., Yefimov, S., Tieleman, D. P., & de Vries, A. H. (2007). The MARTINI force field: Coarse grained model for biomolecular simulations. The Journal of Physical Chemistry B, 111(27), 7812-7824. DOI: 10.1021/jp071097f.
+        </i></small></ul>
+
+        <p><b>E. Tools to build ensembl to MDS.</b>
+        <i><small><ul>      
+        <li>CHARMM-GUI.
+        <li>Packmol-memgen.
+        </i></small></ul>
+
+        <p><b>Advanced techniques for conformational sampling</b> are designed to improve the exploration of the conformational space of molecules, overcoming limitations such as high energy barriers and limited timescales in traditional molecular dynamics (MD) simulations. These methods are particularly useful for complex biomolecules and drug-like molecules where rare conformations may play an essential role in biological activity.
+        <i><small><ul>      
+        <li>Umbrella Sampling - WHAM. Ono, J., & Nakai, H. (2020). Weighted histogram analysis method for multiple short-time metadynamics simulations. Chemical Physics Letters, 748, 137384. https://doi.org/10.1016/j.cplett.2020.137384
+        <li>Steered Molecular Dynamics. SMD - NAMD, Gromacs.
+        <li>Metadynamics - PLUMED - Amber, Gromacs, NAMD.
+        <li>Replica Exchange - Amber, Gromacs, NAMD.
+        <li>Accelerate Molecular Dybnamics. aMD - Amber, NAMD.
+        <li>Gaussian Accelerated Molecular Dynamics. GaMD - AMber, NAMD. 
+        <li>Adaptative Biasing Force. ABF - NAMD.
+        <li>Normal Mode Analysis. NMA - Prody.
+        <li>String Method for Free Energy Calculation. MFEP - PLUMED.
+        <li>FBM. https://github.com/yaledeus/FBM
+        </i></small></ul>
+
+        <p><b>F. Tunnel Analysis.</b>
+        <i><small><ul>      
+        <li>Caver. Pavelka, A., Sebestova, E., Kozlikova, B., Brezovsky, J., Sochor, J., & Damborsky, J. (2016). CAVER: Algorithms for analyzing dynamics of tunnels in macromolecules. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 13(3), 505-517. https://doi.org/10.1109/TCBB.2015.2459680
+        <li>Hollow. Ho, B. K., & Gruswitz, F. (2008). Hollow: Generating accurate representations of channel and interior surfaces in molecular structures. BMC Structural Biology, 8, 49. https://doi.org/10.1186/1472-6807-8-49
+        <li>PoreWalker. Tubbs, A., & Tilley, D. (2010). PoreWalker: A novel tool for the identification and characterization of channels in transmembrane proteins from their three-dimensional structure. Bioinformatics, 26(5), 614-619. https://doi.org/10.1093/bioinformatics/btq017
+        <li>Hole2. Smart, O. S., Goodfellow, J. M., & Wallace, B. A. (1993). The pore dimensions of gramicidin A. Biophysical Journal, 65(6), 2455-2460. https://doi.org/10.1016/S0006-3495(93)81293-1
+        <li>IterTunnel. Kingsley, L. J., & Lill, M. A. (2014). Including ligand-induced protein flexibility into protein tunnel prediction. Journal of Computational Chemistry, 35(26), 2040-2046. https://doi.org/10.1002/jcc.23680
+        <li>Mole2. Sehnal, D., Svobodová Vařeková, R., Berka, K., Pravda, L., Navratilová, V., Banáš, P., ... & Koča, J. (2013). MOLE 2.0: Advanced approach for analysis of biomacromolecular channels. Journal of Cheminformatics, 5(1), 39. https://doi.org/10.1186/1758-2946-5-39
+        </i></small></ul>
+
+
+    - name: Pharmacological WebApp
+      description : >
+        <h1><b>Pharmacological WebApp</b></h1>
+        <p><b>Web resources associated with pharmacology</b> provide essential platforms for researchers, clinicians, and healthcare professionals to access vast databases, tools, and information relevant to drug discovery, development, and therapeutic applications. These online resources facilitate a deeper understanding of drug interactions, pharmacokinetics, pharmacodynamics, side effects, molecular mechanisms, and more.
+
+        <i><small><ul>
+        <li>https://www.uniprot.org. UniProt Consortium. (2021). UniProt: the universal protein knowledgebase. Nucleic Acids Research, 49(D1), D480-D489. https://doi.org/10.1093/nar/gkaa1100
+        <li>https://dgidb.org. Cannon M, Stevenson J, Stahl K, Basu R, Coffman A, Kiwala S, McMichael JF, Kuzma K, Morrissey D, Cotto K, Mardis ER, Griffith OL, Griffith M, Wagner AH. DGIdb 5.0: rebuilding the drug-gene interaction database for precision medicine and drug discovery platforms. Nucleic Acids Res. 2024 Jan 5;52(D1):D1227-D1235. doi: 10.1093/nar/gkad1040. PMID: 37953380; PMCID: PMC10767982.
+        <li>https://ddinter.scbdd.com. Guoli Xiong, Zhijiang Yang, Jiacai Yi, Ningning Wang, Lei Wang, Huimin Zhu, Chengkun Wu, Aiping Lu, Xiang Chen, Shao Liu, Tingjun Hou, Dongsheng Cao, DDInter: an online drug–drug interaction database towards improving clinical decision-making and patient safety, Nucleic Acids Research, Volume 50, Issue D1, 7 January 2022, Pages D1200–D1207, https://doi.org/10.1093/nar/gkab880
+        <li>https://www.pharmgkb.org/. PharmGKB. Whirl-Carrillo, M., Huddart, R., Gong, L., Sangkuhl, K., Thorn, C. F., Whaley, R., & Klein, T. E. (2021). An evidence-based framework for evaluating pharmacogenomics knowledge for personalized medicine. *Clinical Pharmacology & Therapeutics*, online ahead of print.
+        <li>ClinicalTrials.gov: https://clinicaltrials.gov
+        <li>PharmacoDB: https://pharmacodb.ca
+        <li>DrugBank: https://go.drugbank.com
+        <li>Pharos: https://pharos.nih.gov
+        <li>CANSAR: https://cansar.ai
+        <li>SwissADME: http://www.swissadme.ch
+        <li>ChEMBL: https://www.ebi.ac.uk/chembl
+        </i></small></ul>
