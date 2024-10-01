@@ -48,3 +48,17 @@
   assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
   photo: projects/DLBCL_Evolution.png
 
+
+- support: Nvidia Support
+  acknowledge: Collaboration with NVIDIA has been instrumental in advancing our research and education efforts. We are grateful for their continued support and look forward to future opportunities to work together.
+  donations: 
+    - year: 2016
+      donation: Tesla K40
+      impact: The Tesla K40 significantly enhanced our computational capabilities, allowing us to accelerate our research in molecular dynamics. This led to the publication of two research papers related to UreI protein.
+    - year: 2019
+      donation: Titan Xp
+      impact: The Titan Xp enabled us to expand our research into deep learning and artificial intelligence. With this powerful GPU, we developed and taught two new courses on AI and deep learning, reaching over 50 students (2 years - molecular dynamics course).
+  activities:
+    - year: 2024
+      activity: Courses on Molecular Dynamics Simulation focused in Transporters and Rare Diseases
+      impact: Leveraging the computational power of the donated GPUs, we developed specialized courses on molecular dynamics simulation. These courses focused on the simulation of transporters and the study of rare diseases, providing students with hands-on experience in cutting-edge research techniques. Over 100 students have benefited from these courses, gaining valuable skills in computational biology and bioinformatics.
