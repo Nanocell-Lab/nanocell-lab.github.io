@@ -1,0 +1,445 @@
+# Conference presentations. Source text provided by site owner.
+# Titles translated/normalized to English where needed.
+# Updated: 2026-09-08
+- title: >
+    Molecular dynamics simulation of the GLUT1 Gly75Trp mutation: investigating its impact on transport mechanisms in the alternating-access model
+  presenters: >
+    Acosta Yañez, D. H.; Lillo Dapremont, B.; Salas Burgos, A.
+  year: 2024
+  date: "2024-11-10"
+  date_label: >
+    November 10, 2024
+  event: >
+    III Reunión Anual de la Sociedad Chilena de Bioinformática
+
+- title: >
+    The emerging role of quercetin in metabolic reprogramming
+  presenters: >
+    Azócar, S.; González-Chavarría, I.; Salas Burgos, A.
+  year: 2024
+  date: "2024-11-10"
+  date_label: >
+    November 10, 2024
+  event: >
+    III Reunión Anual de la Sociedad Chilena de Bioinformática
+
+- title: >
+    Library of cyclic peptides: a molecular dynamics and structural analysis perspective for rational drug design
+  presenters: >
+    Bustamamante, J. C.; Salas Burgos, A.
+  year: 2024
+  date: "2024-11-10"
+  date_label: >
+    November 10, 2024
+  event: >
+    III Reunión Anual de la Sociedad Chilena de Bioinformática
+
+- title: >
+    Membrane Carromata: a tool for analyzing intramolecular interactions and mutation effects on membrane proteins in an alternating-access model
+  presenters: >
+    Bustamante, J. C.; Ormeño Reyes, M.; Acosta, D.; Lillo Dapremont, B.; Salas Burgos, A.
+  year: 2023
+  date: "2023-11-08"
+  date_label: >
+    November 8, 2023
+  event: >
+    IV Conferencia Internacional en Bioinformática, Simulación y Modelado CBSM
+
+- title: >
+    Territorial governance and mission-oriented policy in the Global South: lessons from the CTCI Centro-Sur Node in Chile
+  presenters: >
+    Cabezas San Martín, M.; Henríquez Almonacid, J.; Cofré Navarro, M. J.; Salas Burgos, A.
+  year: 2025
+  date: "2025-11-27"
+  date_label: >
+    November 27, 2025
+  event: >
+    Sociedad Chilena de Estudios Regionales
+
+- title: >
+    Analysis of the genetic diversity of Ribes magellanicum, an endemic Patagonian currant, using species-specific microsatellite markers
+  presenters: >
+    Jara, V.; Castro, M. H.; Salas Burgos, A.; León, P.; Hinrichsen, P.
+  year: 2021
+  date: "2021-10-06"
+  date_label: >
+    October 6, 2021
+  event: >
+    Congreso de Genética ALAG 2021
+
+- title: >
+    Modeling the alternative transport cycle of Major Facilitator Superfamily proteins: an integrated approach using normal mode analysis and molecular dynamics simulations on XylE
+  presenters: >
+    Lillo Dapremont, B.; Salas Burgos, A.; Lema, J. M.; Acosta Yañez, D. H.; Lema, J. M.
+  year: 2024
+  date: "2024-11-26"
+  date_label: >
+    November 26, 2024
+  event: >
+    3ra Reunión Anual de la Sociedad Chilena de Bioinformática
+
+- title: >
+    Exploration of the alternating-access model in XylE using coarse-grained molecular dynamics simulation
+  presenters: >
+    Lillo Dapremont, B.; Tapia Belmonte, F.; Oppliger Muñoz, M.; Salas Burgos, A.
+  year: 2023
+  date: "2023-11-08"
+  date_label: >
+    November 8, 2023
+  event: >
+    IV Conferencia Internacional en Bioinformática, Simulación y Modelado CBSM
+
+- title: >
+    Science and technology in the Centro-Sur macrozone: how perceptions and knowledge relate to attitudes toward science
+  presenters: >
+    Montes Hernández, L.; Salas Burgos, A.; Cabezas San Martín, M.
+  year: 2023
+  date: "2023-11-11"
+  date_label: >
+    November 11, 2023
+  event: >
+    V Congreso de la Sociedad Chilena de Educación Científica
+
+- title: >
+    Implementation of a Snakemake bioinformatics workflow to optimize biotic characterization of ecosystems through metabarcoding
+  presenters: >
+    Muñoz Claveria, S.; Salas Burgos, A.
+  year: 2021
+  date: "2021-09-22"
+  date_label: >
+    September 22, 2021
+  event: >
+    2nd Women in Bioinformatics & Data Science LA Conference
+
+- title: >
+    Characterization of intratumoral heterogeneity and clonal evolution in gastric cancer
+  presenters: >
+    Muñoz Maulen; Ormeño Reyes, M.; Salas Burgos, A.
+  year: 2025
+  date: "2025-11-23"
+  date_label: >
+    November 23, 2025
+  event: >
+    LVIII Reunión Anual de la Sociedad de Genética de Chile
+
+- title: >
+    New insights into evolution and sequence-function relationships in the extended GLUT family of sugar and polyol transporters
+  presenters: >
+    Oppliger Muñoz, M.; Ormazábal Valladares, V. A.; Salas Burgos, A.
+  year: 2021
+  date: "2021-09-22"
+  date_label: >
+    September 22, 2021
+  event: >
+    2nd Women in Bioinformatics & Data Science LA Conference
+
+- title: >
+    Development of a computational tool to explore relationships between rare and oncological diseases: TGF-β/BMP receptors as a case study
+  presenters: >
+    Ormeño Reyes, M.; Bustamamante, J. C.; Zuñiga, F. A.; Muñoz Maulen, D.; Salas Burgos, A.
+  year: 2024
+  date: "2024-10-11"
+  date_label: >
+    October 11, 2024
+  event: >
+    III Reunión Anual de la Sociedad de Bioinformática
+
+- title: >
+    Exploring relationships between rare diseases caused by mutations in serine-threonine kinase receptors and cancer
+  presenters: >
+    Ormeño Reyes, M.; Bustamante, J. C.; Zúñiga Arbalti, F.; Salas Burgos, A.
+  year: 2023
+  date: "2023-11-08"
+  date_label: >
+    November 8, 2023
+  event: >
+    IV Conferencia Internacional en Bioinformática, Simulación y Modelado CBSM
+
+- title: >
+    MH3: development of a computational tool to explore relationships between rare and oncological diseases using TGF-β/BMP receptors as a case study
+  presenters: >
+    Ormeño Reyes, M.; Salas Burgos, A.; Bustamamante, J. C.; Zuñiga, F. A.; Quevedo Langenegger, Erick; Muñoz Maulen, D.
+  year: 2024
+  date: "2024-11-13"
+  date_label: >
+    November 13, 2024
+  event: >
+    1º Congreso de Enfermedades Raras, Poco Frecuentes y Huérfanas de Chile
+
+- title: >
+    In silico study of the ACVR1-SMAD1 protein complex involved in fibrodysplasia ossificans progressiva
+  presenters: >
+    Ortiz-López, D.; Burgos, A.-S.; Langenegger, I. Q.
+  year: 2021
+  date: ""
+  date_label: >
+    2021
+  event: >
+    Not specified in source text
+
+- title: >
+    SALL2 expression in colon cancer progression and its association with AXIN2
+  presenters: >
+    Quiroz, A.; Mardones, C.; Navarrete, J. M.; Salas Burgos, A.; Delgado, C.; Castro, A.; Pincheira, R.
+  year: 2021
+  date: "2021-10-04"
+  date_label: >
+    October 4, 2021
+  event: >
+    XLIV Reunión Anual de la Sociedad de Bioquímica y Biología Molecular de Chile
+
+- title: >
+    SALL2 expression in colon cancer progression and its association with AXIN2
+  presenters: >
+    Quiroz, A.; Mardones, C.; Navarrete, J. M.; Salas Burgos, A.; Delgado, C.; Castro, A.; Pincheira, R.
+  year: 2021
+  date: "2021-10-06"
+  date_label: >
+    October 6, 2021
+  event: >
+    Congreso de Genética ALAG 2021
+
+- title: >
+    Development of therapeutic strategies with a focus on digestive cancer
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-08-12"
+  date_label: >
+    August 12, 2022
+  event: >
+    Oncosummit Chile 2022
+  url: https://oncosummit.cl/streaming-espanol/
+
+- title: >
+    Human-machine interaction in cancer disease
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-08-17"
+  date_label: >
+    August 17, 2022
+  event: >
+    7th CMM Pucón Symposium
+  url: https://eventos.cmm.uchile.cl/pucon2022/program/
+
+- title: >
+    Nodo CTCI Macrozona Centro Sur: communicating, articulating, and planning to accelerate the territorial impact of science
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-10-13"
+  date_label: >
+    October 13, 2022
+  event: >
+    Jornadas ANID de Nodos CTCI
+
+- title: >
+    Nodo CTCI: supported by the principles of open science and missions
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-10-27"
+  date_label: >
+    October 27, 2022
+  event: >
+    Semana del Acceso Abierto Chile 2022
+
+- title: >
+    The role of collaboration in the development of precision oncology
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-11-08"
+  date_label: >
+    November 8, 2022
+  event: >
+    Oncología de Precisión en Cáncer de Colon
+
+- title: >
+    Nodo CTCI Centro Sur: progress and a mission-based roadmap
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-11-29"
+  date_label: >
+    November 29, 2022
+  event: >
+    Not specified in source text
+
+- title: >
+    Stomach cancer: every coin has two faces
+  presenters: >
+    Salas Burgos, A.
+  year: 2022
+  date: "2022-11-30"
+  date_label: >
+    November 30, 2022
+  event: >
+    Fourth Chile-Japan Academic Forum
+
+- title: >
+    Macrozonal Cancer Research Consortium
+  presenters: >
+    Salas Burgos, A.
+  year: 2023
+  date: "2023-01-11"
+  date_label: >
+    January 11, 2023
+  event: >
+    Nodo CTCI - Consorcios de Investigación
+
+- title: >
+    Nodo CTCI Macrozona Centro Sur: challenges and project types
+  presenters: >
+    Salas Burgos, A.
+  year: 2023
+  date: "2023-01-25"
+  date_label: >
+    January 25, 2023
+  event: >
+    Seminario de Cierre Proyecto Año 2
+
+- title: >
+    Standards and formats to strengthen biomedical research in oncology
+  presenters: >
+    Salas Burgos, A.
+  year: 2023
+  date: "2023-01-26"
+  date_label: >
+    January 26, 2023
+  event: >
+    Seminario de Oncología e Inmunología
+
+- title: >
+    Human-machine interactions in the fight against cancer
+  presenters: >
+    Salas Burgos, A.
+  year: 2023
+  date: "2023-03-24"
+  date_label: >
+    March 24, 2023
+  event: >
+    Not specified in source text
+
+- title: >
+    Omics data analysis in cancer
+  presenters: >
+    Salas Burgos, A.
+  year: 2023
+  date: "2023-03-31"
+  date_label: >
+    March 31, 2023
+  event: >
+    Workshop en Consejería Genética y Diagnóstico Molecular de Tumores Hereditarios
+
+- title: >
+    Designing computational tools to understand bacterial-human cell communications
+  presenters: >
+    Salas Burgos, A.
+  year: 2024
+  date: "2024-08-09"
+  date_label: >
+    August 9, 2024
+  event: >
+    I Argentinean-Japanese Lactic Acid Bacteria “Tohoku Forum for Creativity” Meeting
+
+- title: >
+    Nodo CTCI Macrozona Centro Sur: implementation of mission-oriented territorial consortia
+  presenters: >
+    Salas Burgos, A.
+  year: 2025
+  date: "2025-04-09"
+  date_label: >
+    April 9, 2025
+  event: >
+    Not specified in source text
+
+- title: >
+    Rare diseases and cancer
+  presenters: >
+    Salas Burgos, A.
+  year: 2025
+  date: "2025-05-15"
+  date_label: >
+    May 15, 2025
+  event: >
+    I Simposio en Cáncer del Sur de Chile
+
+- title: >
+    Dual role of ACVR1 receptors in rare disease and cancer
+  presenters: >
+    Salas Burgos, A.; Ortiz López, D.; Ormeño, M.; Bustamante, J. C.; Quevedo Langenegger, E. I.
+  year: 2023
+  date: "2023-11-08"
+  date_label: >
+    November 8, 2023
+  event: >
+    IV Conferencia Internacional en Bioinformática, Simulación y Modelado CBSM
+
+- title: >
+    Molecular characterization of acute myeloid leukemia in Chile using NGS bioinformatics pipelines: evaluation of OncoAnalyzer and HAMLET
+  presenters: >
+    Salas Burgos, A.; Sierra Flores, D.; Muñoz Maulen, D.; Pineda Peña, S.; Romero Riquelme, M.; Zúñiga Arbalti, F. A.
+  year: 2025
+  date: "2025-10-23"
+  date_label: >
+    October 23, 2025
+  event: >
+    LVIII Reunión Anual de la Sociedad de Genética de Chile
+
+- title: >
+    Molecular characterization of acute myeloid leukemia: comparison of exomes versus transcriptomes
+  presenters: >
+    Sierra Flores, D.; Muñoz Maulen, D.; Romero Riquelme; Pineda Peña, S.; Zúñiga Arbalti, F. A.; Salas Burgos, A.
+  year: 2025
+  date: "2025-11-17"
+  date_label: >
+    November 17, 2025
+  event: >
+    IV Reunión Anual de la Sociedad Chilena de Bioinformática
+
+- title: >
+    Abstract 6139: changes in macrophage phenotype and function with aging affect tumor growth and the tumor microenvironment in murine cancer models
+  presenters: >
+    Suresh, M.; Durr, M.; Li, X.; Weselman, B.; Gajendran, N.; Quiceno-Torres, D.; Sebaoui, S.; Rajesh, A.; Hepp, M.; Salas-Burgos, A.; Noonepalle, S.; Villagra, A.
+  year: 2025
+  date: ""
+  date_label: >
+    2025
+  event: >
+    Cancer Research, 85(8_Supplement_1), 6139
+  url: https://doi.org/10.1158/1538-7445.AM2025-6139
+
+- title: >
+    Generation of a multi-omic map of mitochondrial transporters in lipidic and glycolytic ovarian cancer cell lines
+  presenters: >
+    Tapia Belmonte, F.; Alarcón Zapata, P.; Zuñiga, F. A.; Salas Burgos, A.
+  year: 2024
+  date: "2024-11-11"
+  date_label: >
+    November 11, 2024
+  event: >
+    III Reunión Anual de la Sociedad de Bioinformática
+
+- title: >
+    Characterization of expression and mutational profiles of transporter proteins in cellular adaptation to the tumor microenvironment in cancer
+  presenters: >
+    Tapia Belmonte, F.; Lillo Dapremont, B.; Oppliger Muñoz, M.; Salas Burgos, A.
+  year: 2023
+  date: "2023-11-08"
+  date_label: >
+    November 8, 2023
+  event: >
+    IV Conferencia Internacional en Bioinformática, Simulación y Modelado CBSM
+
+- title: >
+    Evaluation of the modulatory role of HDAC6 on the JAK-STAT3 pathway
+  presenters: >
+    Zevallos Delgado, C.; Kumar Noonepalle, S.; Salas Burgos, A.; Barinka, C.; Hepp Castro, M.; Villagra, A.
+  year: 2020
+  date: "2020-04-10"
+  date_label: >
+    April 10, 2020
+  event: >
+    GW Research Showcase 2022

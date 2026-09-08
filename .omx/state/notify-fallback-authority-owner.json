@@ -2,13 +2,13 @@
   "owner": "hud",
   "pid": 59940,
   "cwd": "/Users/alsalas/Github/nanocell-lab.github.io",
-  "heartbeat_at": "2026-09-08T07:43:19.886Z",
+  "heartbeat_at": "2026-09-08T08:03:33.047Z",
   "cooldown_ms": 5000,
-  "jitter_ms": 178,
-  "skip_count": 1356,
+  "jitter_ms": 63,
+  "skip_count": 1826,
   "last_status": "skipped",
   "last_reason": "rate_limited",
-  "last_spawn_at": "2026-09-08T07:43:17.884Z",
-  "last_skip_at": "2026-09-08T07:43:19.886Z",
-  "next_allowed_at": "2026-09-08T07:43:23.062Z"
+  "last_spawn_at": "2026-09-08T08:03:32.047Z",
+  "last_skip_at": "2026-09-08T08:03:33.047Z",
+  "next_allowed_at": "2026-09-08T08:03:37.110Z"
 }
