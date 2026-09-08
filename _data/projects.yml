@@ -14,7 +14,7 @@
   institution: >
     Universidad de Concepción
   description: >
-    Proyecto CTCI para el desarrollo de futuros territoriales sostenibles.
+    Iniciativa orientada a fortalecer capacidades de ciencia, tecnología, conocimiento e innovación para imaginar y acelerar futuros territoriales sostenibles, conectando planificación estratégica, colaboración institucional y necesidades del territorio.
 
 - name: >
     Evaluating the role of macrophage epigenetic wiring in cancer aging
@@ -29,7 +29,7 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDECYT nacional orientado al estudio del cableado epigenético de macrófagos en envejecimiento y cáncer.
+    Estudia cómo los cambios epigenéticos asociados al envejecimiento reprograman macrófagos del microambiente tumoral y modifican la progresión del cáncer, con foco en mecanismos celulares que puedan orientar nuevas hipótesis terapéuticas.
 
 - name: >
     Interdisciplinary approach to breast cancer in a rural/agricultural context: Integrating environmental, biological, and social determinants in the Maule Region
@@ -44,7 +44,7 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDECYT nacional con enfoque interdisciplinario sobre cáncer de mama en contexto rural/agropecuario.
+    Integra determinantes ambientales, biológicos y sociales para comprender el cáncer de mama en comunidades rurales y agrícolas del Maule, articulando evidencia territorial y biomédica para abordar riesgos en contextos subrepresentados.
 
 - name: >
     Caracterización del efecto del orden temporal de mutaciones impulsoras en el gen TP53 en la heterogeneidad intratumoral desde biopsias de pacientes con cáncer gástrico.
@@ -59,7 +59,7 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDECYT nacional sobre el efecto del orden temporal de mutaciones impulsoras en TP53 y la heterogeneidad intratumoral en cáncer gástrico.
+    Analiza cómo la secuencia temporal de mutaciones impulsoras en TP53 puede influir en la heterogeneidad intratumoral del cáncer gástrico, usando biopsias de pacientes como base para interpretar trayectorias evolutivas del tumor.
 
 - name: >
     Identification of new chemical biomarkers associated with molecular subtypes of gastric cancer embedded tissue of Chilean patients, using untargeted metabolomics and spatialomics analytical approach
@@ -74,7 +74,7 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDECYT nacional para identificar biomarcadores químicos asociados a subtipos moleculares de cáncer gástrico mediante metabolómica no dirigida y espacialómica.
+    Combina metabolómica no dirigida y espacialómica para buscar biomarcadores químicos vinculados a subtipos moleculares de cáncer gástrico en tejido embebido de pacientes chilenos, favoreciendo una lectura molecular localizada de la enfermedad.
 
 - name: >
     Unraveling the Covalent Binding Mechanism of Telomerase to Guide the Search for Effective Cancer Inhibitors
@@ -89,10 +89,10 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDECYT nacional para estudiar el mecanismo de unión covalente de telomerasa y orientar la búsqueda de inhibidores contra cáncer.
+    Explora el mecanismo de unión covalente asociado a telomerasa para orientar el diseño y priorización de inhibidores anticáncer, conectando modelamiento molecular con preguntas sobre selectividad y eficacia farmacológica.
 
 - name: >
-    Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer¿s disease
+    Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer’s disease
   category: fondecyt
   category_label: FONDECYT
   start_year: 2022
@@ -104,7 +104,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto FONDECYT nacional sobre farmacología de sistemas para diseñar ligandos multitarget como alternativas terapéuticas para enfermedad de Alzheimer.
+    Aplica farmacología de sistemas para diseñar ligandos dirigidos a múltiples blancos como alternativas terapéuticas para la enfermedad de Alzheimer, integrando relaciones moleculares complejas en la priorización de candidatos.
 
 - name: >
     MOLECULAR PROFILING OF BREAST CANCER: Sequence variation in new hereditary breast cancer, driver and miRNAs genes as biomarkers of predisposition, therapeutics and its role in cell transformation.
@@ -119,7 +119,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto FONDECYT nacional sobre perfilamiento molecular de cáncer de mama y variación genética como biomarcadores de predisposición y transformación celular.
+    Caracteriza variación genética hereditaria, genes conductores y miRNAs en cáncer de mama para estudiar biomarcadores de predisposición, transformación celular y potencial utilidad terapéutica desde un enfoque de perfilamiento molecular.
 
 - name: >
     Fortalecimiento de la Apropiación y Valorización del Nodo CTCI Centro Sur en el Territorio
@@ -134,7 +134,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto de redes, estrategia y conocimiento para fortalecer la apropiación y valorización del Nodo CTCI Centro Sur en el territorio.
+    Fortalece la apropiación territorial del Nodo CTCI Centro Sur mediante acciones de valorización, articulación y transferencia de capacidades, buscando que la ciencia abierta tenga mayor pertinencia e impacto local.
 
 - name: >
     Nodo CTCI-MCS: Consolidación de la institucionalidad del Nodo CTCI Macrozonal Centro Sur para la Aceleración del Impacto Territorial de la Ciencia Abierta
@@ -149,7 +149,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto de redes, estrategia y conocimiento para consolidar la institucionalidad del Nodo CTCI Macrozonal Centro Sur.
+    Consolida la institucionalidad del Nodo CTCI Macrozonal Centro Sur para acelerar el impacto territorial de la ciencia abierta, promoviendo coordinación entre actores y una agenda compartida de conocimiento aplicado.
 
 - name: >
     Co-creación de un modelo de Ciencia Abierta en la Macrozona Centro Sur de Chile en concordancia con su territorio y sociedad
@@ -164,7 +164,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto de redes, estrategia y conocimiento para co-crear un modelo de Ciencia Abierta en la Macrozona Centro Sur de Chile.
+    Desarrolla un modelo de ciencia abierta construido con actores de la Macrozona Centro Sur, alineando prioridades científicas, sociales y territoriales para mejorar la circulación y uso público del conocimiento.
 
 - name: >
     Identificación de moduladores del canal iónico TMC1 como alternativa terapéutica para el tratamiento de la sordera
@@ -179,7 +179,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto de cooperación internacional orientado a identificar moduladores del canal iónico TMC1 como alternativa terapéutica para sordera.
+    Busca moduladores del canal iónico TMC1 como base para nuevas alternativas terapéuticas en sordera, enmarcando la colaboración internacional como vía para conectar biología molecular, modelamiento y validación funcional.
 
 - name: >
     Caracterización de condiciones de escalamiento de cepas probióticas de alto interés para la industria alimentaria / farmacéutica y fortalecimiento de sus Insights de Marketing
@@ -194,7 +194,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto APTA sobre escalamiento de cepas probióticas de interés para la industria alimentaria y farmacéutica.
+    Caracteriza condiciones de escalamiento para cepas probióticas con potencial alimentario y farmacéutico, vinculando criterios biotecnológicos con información de mercado para facilitar decisiones de transferencia e innovación.
 
 - name: >
     iScan integrated platform: A friendly, versatile, and cost-efficient mass genotyping tool for global genetic characterization at a population scale
@@ -209,7 +209,7 @@
   status: >
     EN EJECUCIÓN
   description: >
-    Proyecto FONDEQUIP nacional para una plataforma integrada de genotipificación masiva y caracterización genética poblacional.
+    Impulsa una plataforma integrada de genotipificación masiva que busca hacer más accesible, versátil y costo-eficiente la caracterización genética a escala poblacional, apoyando estudios con alto volumen de muestras.
 
 - name: >
     Caracterización clínica y genética de pacientes con distrofia miotónica para evaluar la relación genotipo-fenotipo y desarrollar un modelo de estratificación de los pacientes
@@ -224,7 +224,7 @@
   status: >
     CERRADO
   description: >
-    Proyecto VRID interno universitario para caracterizar clínica y genéticamente pacientes con distrofia miotónica.
+    Relaciona información clínica y genética de pacientes con distrofia miotónica para evaluar asociaciones genotipo-fenotipo y construir criterios de estratificación que apoyen una interpretación más precisa de la variabilidad clínica.
 
 - name: >
     V Reunión Anual de la Sociedad Chilena de Bioinformática 2026
@@ -239,7 +239,7 @@
   institution: >
     Universidad de Concepción
   description: >
-    Apoyo VRID para la V Reunión Anual de la Sociedad Chilena de Bioinformática 2026.
+    Apoya la organización de un encuentro científico de bioinformática orientado a reunir comunidad, formación y colaboración interdisciplinaria en áreas como genómica, transcriptómica, biología computacional e inteligencia artificial aplicada.
 
 - name: >
     NVIDIA Support
@@ -254,4 +254,4 @@
   status: >
     ACTIVO
   description: >
-    Collaboration with NVIDIA has supported research and education through GPU donations, including Tesla K40 and Titan Xp hardware, and 2024 molecular dynamics simulation courses focused on transporters and rare diseases.
+    Fortalece la capacidad computacional del laboratorio mediante apoyo de NVIDIA en infraestructura GPU y formación, habilitando simulación molecular, análisis de datos y actividades docentes con tecnologías de cómputo acelerado.
