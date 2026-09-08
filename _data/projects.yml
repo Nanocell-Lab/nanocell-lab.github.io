@@ -1,64 +1,95 @@
-- name: Elucidating the role of membrane transporters in cellular adaptation to the tumor microenvironment from gastric cancer
+- name: >
+    Identification Of New Chemical Biomarkers Associated With Molecular Subtypes Of Gastric Cancer Embedded Tissue Of Chilean Patients, Using Untargeted Metabolomics And Spatialomics Analytical Approach
   description: >
-    Gastric cancer is one of the deadliest cancers in the world and requires your attention due to the absence of early biomarkers and the difficulty of predicting its tumor progression. The complexity of the SN is related to the high intratumoral heterogeneity (ITH) at the regional or spatial level, represented by the genotypic diversity of the gastric cancer cell (GCC) at the inter- and intratumoral level, manifesting differential adaptation capacities against the tumor microenvironment (TEM). The GCCs could alter the nutritional conditions of their environment by reprogramming the metabolism of carbohydrates, lipids, and amino acids, generating resource deprivation for the non-cancerous cells of their TEM. The transporter proteins are a metabolic pivot, directly defining the concentrations of metabolites in the TEM and in the subcellular distribution. The role of transporters in these adaptive processes is beginning to be revisited, where hexose transporters, such as glucose facilitative transporter 1 (GLUT1), are associated with diagnostic strategies and are a classic marker of cancer progression. However, the role of other hexose transporters, their expression levels, mutational profiles, and the possibility of identifying new adaptation mechanisms to TEM restrictions. Finally, investigating these processes allows us to project ourselves towards the translation of this information in the development of new immunological therapies directed with neo-antigens from transporters, the design of therapies that directly affect the transporters, the development of subcellular therapies and the exploration of the development of an index of GC tumor progression based on multi-omics profiles associated with hexose metabolism.
-  funding: Not Available
-  collaborators: Felipe Zúñiga, Luis Bustamamante, Alejandro Godoy, and Alex Digenova
-  assignees: David Muñoz
-  photo: projects/dhitsig.png
+    Year: 2024. Institution: Universidad de Concepción.
+  funding: FONDECYT REGULAR No. 1241915
+  collaborators: >
+    Bustamante Salazar, L. A.; Mardones Peña, C.; Pérez de Armas, A. J.; Delgado Schneider, C. P.; Salas Burgos, A.
 
-- name: The role of the Fc Gamma receptor locus in resistance to R-CHOP
+- name: >
+    Despliegue Territorial De Hoja De Ruta Para La Aceleración Del Impacto Sostenible De La Ciencia, Tecnología, Conocimiento E Innovación A Través Del Desarrollo De Consorcios De Investigación
   description: >
-    Through genomic characterization of DLBCL we identified somatic amplification
-    of the Fc gamma receptor 2B gene (FCGR2B) as a feature in ~5% of cases. We also 
-    found the expression of FCGR2B (by RNA-seq) was prognostic in multiple DLBCL cohorts. 
-    FCGR2B contributes to treatment resistance by promoting the internalization of the 
-    rituximab antibody by malignant cells, allowing them to evade immune detection. 
-    It may therefore serve as an important biomarker to identify high-risk patients and 
-    stratify them to recieve newer immunotherapies that can mitigate the effects of high 
-    FCGR2B expression. Understanding the genetic mechanisms that drive FCGR2B amplification 
-    and overexpression has been complicated by the segmental duplication that affects 
-    the FCGR locus, which makes it difficult to accurately align short reads to FCGR2B 
-    or its closely-related paralog FCGR2C. We have been employing long-read Oxford 
-    Nanopore sequencing and Bionano optical mapping to accurately characterize the 
-    structural and single nucleotide variation within the locus.
-  funding: ASH Foundation
-  collaborators: David Scott
-  assignees: Laura Hilton, Miguel Alcaide, Jack Hillman
-  photo: projects/FCGR2B_cropped.png
+    Año: 2024. Institución: Universidad de Concepción.
+  funding: NODO ANID No. NODO240003
+  collaborators: >
+    Cabezas, M.; Muñoz, G.; Salas Burgos, A.
 
-- name: Resolving clonal structure and evolution patterns in DLBCL
+- name: >
+    CTCI Para El Desarrollo De Futuros Territoriales Sostenibles
   description: >
-    Diffuse Large B-Cell Lymphoma is a genetically heterogeneous form of cancer, 
-    with different cells in the tumour acquiring different mutations. This 
-    intra-tumour heterogeneity can have profound effects on treatment; if a clonal 
-    subpopulations is resistant to treatment, it will reform the tumour following 
-    treatment, causing the patient to relapse. We are recieving samples from several
-    clinical trials exploring different salvage therapies for patients with relapsed
-    DLBCL. Tumour biopsies and liquid biopsies are being collected from patients 
-    both before and after they are treated. Using these temporal sources of tumour DNA,
-    we can identify clonal subpopulations in the tumour, 
-    and further explore how the tumour evolves and adapts in the face of a strong 
-    selective pressure such as treatment. The mutations unique to these resistant 
-    clonal subpopulations can be explored to determine which mutation(s) result 
-    in treatment resistance. We can further determine if these mutations are 
-    detectable prior to treatment, which may allow patient to be screened for resistance 
-    mutations before they are treated.
-  funding: Terry Fox Research Institute
-  collaborators: Christian Steidl, David Scott, Nathalie Johnson
-  assignees: Chris Rushton, Miguel Alcaide, Sarah Arthur
-  photo: projects/DLBCL_Evolution.png
+    Año: 2026. Institución: Universidad de Concepción.
+  funding: NMC ANID No. NMCA250001
+  collaborators: >
+    Cabezas, M.; Salas Burgos, A.
 
+- name: >
+    Unraveling The Covalent Binding Mechanism Of Telomerase To Guide The Search For Effective Cancer Inhibitors
+  description: >
+    Year: 2024. Institution: Universidad Andrés Bello.
+  funding: FONDECYT REGULAR No. 1241355
+  collaborators: >
+    Jaña Villalobos, G. A.; Uribe Pérez, E. A.; Salas Burgos, A.
 
-- support: Nvidia Support
-  acknowledge: Collaboration with NVIDIA has been instrumental in advancing our research and education efforts. We are grateful for their continued support and look forward to future opportunities to work together.
-  donations: 
-    - year: 2016
-      donation: Tesla K40
-      impact: The Tesla K40 significantly enhanced our computational capabilities, allowing us to accelerate our research in molecular dynamics. This led to the publication of two research papers related to UreI protein.
-    - year: 2019
-      donation: Titan Xp
-      impact: The Titan Xp enabled us to expand our research into deep learning and artificial intelligence. With this powerful GPU, we developed and taught two new courses on AI and deep learning, reaching over 50 students (2 years - molecular dynamics course).
-  activities:
-    - year: 2024
-      activity: Courses on Molecular Dynamics Simulation focused in Transporters and Rare Diseases
-      impact: Leveraging the computational power of the donated GPUs, we developed specialized courses on molecular dynamics simulation. These courses focused on the simulation of transporters and the study of rare diseases, providing students with hands-on experience in cutting-edge research techniques. Over 100 students have benefited from these courses, gaining valuable skills in computational biology and bioinformatics.
+- name: >
+    Caracterización Del Efecto Del Orden Temporal De Mutaciones Impulsoras En El Gen Tp53 En La Heterogeneidad Intratumoral Desde Biopsias De Pacientes Con Cáncer Gástrico
+  description: >
+    Año: 2024. Institución: Universidad de Concepción.
+  funding: FONDECYT POSTDOC No. FONDECYT3240234
+  collaborators: >
+    Muñoz Maulen, D.; Salas Burgos, A.
+
+- name: >
+    Caracterización Estructural De Complejos Proteicos Involucrados En Fibrodisplasia Osificante Progresiva (FOP): Desarrollo De Un Modelo Reportero Para Acelerar El Diseño De Una Terapia Específica
+  description: >
+    Año: 2022.
+  funding: VRID - MULTIDISCIPLINARIA No. 2021000357MUL
+  collaborators: >
+    Quevedo Langenegger, E. I.; Salas Burgos, A.; Araya Secchi, R.
+
+- name: >
+    Iscan Integrated Platform: A Friendly, Versatile, And Cost-efficient Mass Genotyping Tool For Global Genetic Characterization At A Population Scale
+  description: >
+    Year: 2024. Institution: Universidad de Concepción.
+  funding: FONDEQUIP MAYOR No. EQY220014
+  collaborators: >
+    Ramires, R.; Salas Burgos, A.
+
+- name: >
+    Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer’s disease.
+  description: >
+    Year: 2022.
+  funding: FONDECYT No. 1220656
+  collaborators: >
+    Ramírez Sánchez, D.; Salas Burgos, A.
+
+- name: >
+    Nodo CTCI-MCS: Consolidación de la institucionalidad del Nodo CTCI Macrozonal Centro Sur para la Aceleración del Impacto Territorial de la Ciencia Abierta
+  description: >
+    Año: 2023.
+  funding: ANID No. NODO220006
+  collaborators: >
+    Salas Burgos, A.
+
+- name: >
+    Euca-drought: ¿plataforma De Selección De Variedades De Eucalyptus Sp. Tolerantes A Sequía Y De Mayor Eficiencia De Uso De Agua
+  description: >
+    Año: 2023.
+  funding: ID23I10390
+  collaborators: >
+    Ulloa Fuentes, J. L.; Hasbun Zaror, R.; Rubilar Pons, R.; Castillo Felices, R.; Salas Burgos, A.
+
+- name: >
+    Evaluating The Role Of Macrophage Epigenetic Wiring In Cancer Aging
+  description: >
+    Year: 2026. Institution: Universidad Católica de la Santísima Concepción.
+  funding: FONDECYT REGULAR No. 1260559
+  collaborators: >
+    Villagra Macaya, A.; Hepp Castro, M.; Salas Burgos, A.
+
+- name: >
+    Interdisciplinary Approach To Breast Cancer In A Rural/agricultural Context: Integrating Environmental, Biological, And Social Determinants In The Maule Region
+  description: >
+    Year: 2026. Institution: Universidad Católica de la Santísima Concepción.
+  funding: FONDECYT REGULAR No. 1262233
+  collaborators: >
+    Zúñiga Venegas, L.; Landeros, N.; Salas Burgos, A.

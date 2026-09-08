@@ -12,13 +12,13 @@ rank: 7
 ## Open Positions
 **Postdoctoral Fellow -- Integrative Genomic Analysis of Lymphoid Cancers**
 
-The Morin and Scott laboratories are seeking a Postdoctoral Fellow to take a leadership role in an ongoing effort to resolve the molecular aetiology of aggressive lymphoid cancers using genomic techniques. This individual will work closely with a team of bioinformaticians, biostatisticians and clinician-scientists in a highly productive and stimulating research environment at a world-class research facility in Vancouver, Canada.
+The Laboratorio de Dinámica Molecular y Progresión Oncológica is seeking a Postdoctoral Fellow to take a leadership role in an ongoing effort to resolve the molecular aetiology of aggressive lymphoid cancers using genomic techniques. This individual will work closely with a team of bioinformaticians, biostatisticians and clinician-scientists in a highly productive and stimulating research environment at a world-class research facility in Vancouver, Canada.
 
 The successful applicant will apply cutting-edge bioinformatic techniques to analyze hundreds of terabytes of high-throughput sequencing data produced from clinical cancer samples, namely RNA-seq (bulk/single cell), whole exome, whole genome, and circulating tumour DNA sequencing data. This position demands a strong background in bioinformatics, computational biology or data science. Detailed knowledge of cancer biology (particularly non-Hodgkin lymphomas) would be an asset.
 
 Familiarity with algorithms for inferring clonal structure of tumours and network/pathway deregulation from sequence data is also desirable. Experience with machine learning, statistical modelling, survival analysis, and data visualization are all desirable. Characteristics of the ideal candidate include strong verbal and written communication skills, attention to detail, creativity, and the ability to remain organized in a fast-paced and dynamic environment. The successful candidate will thrive in our highly collaborative setting while also being able to drive projects independently.
 
-The successful candidate will report to Drs. ​[Ryan Morin​](https://morinlab.github.io/team/) and [David Scott](https://www.bccrc.ca/dept/lcr/people/david-scott) and will be affiliated with [Canada's Michael Smith Genome Sciences Centre](https://www.bcgsc.ca/) at BC Cancer.
+The successful candidate will report to the laboratory leadership and will be affiliated with Universidad de Concepción, Chile.
 
 *Duties will include some combination of the following:*
 
@@ -46,9 +46,9 @@ The successful candidate will report to Drs. ​[Ryan Morin​](https://morinlab
 
 Suitable candidates should possess a PhD degree in bioinformatics, computer science, or molecular biology and must be competent in at least one programming language such as Python or R.
 
-Diversity is an integral part of Canadian history, culture, and identity. In the Morin laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
+Diversity is an integral part of Canadian history, culture, and identity. In the Laboratorio de Dinámica Molecular y Progresión Oncológica, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
 
-*Applicants are requested to send a cover letter and CV to rdmorin@sfu.ca with LYMPHOMA-PDF in the subject line or using the form below*
+*Applicants are requested to send a cover letter and CV using the form below*
 
 
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">

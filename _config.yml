@@ -1,12 +1,12 @@
 # Site settings
-title: Cancer`s Molecular Dynamics Laboratory at Universidad de Concepción - Chile
-lab_name: CMDL Laboratory
+title: Laboratorio de Dinámica Molecular y Progresión Oncológica - Universidad de Concepción - Chile
+lab_name: Laboratorio de Dinámica Molecular y Progresión Oncológica
 author: >
-  Alexis Salas and CMD laboratory
+  Alexis Salas y el Laboratorio de Dinámica Molecular y Progresión Oncológica
 institution: UDEC 
 email: alsalas@udec.cl
 description: >
-  The CMD Laboratory combines molecular biology, molecular dynamics, and bioinformatics methodologies for understand the genesis and progression of cancer disease.
+  El Laboratorio de Dinámica Molecular y Progresión Oncológica combina biología molecular, dinámica molecular y metodologías bioinformáticas para comprender la génesis y progresión del cáncer.
 baseurl: ""
 url: "https://nanocell-lab.github.io"
 twitter_username: alsalas7
