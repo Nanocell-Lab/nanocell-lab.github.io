@@ -1,12 +1,12 @@
 # Site settings
-title: Laboratorio de Dinámica Molecular y Progresión Oncológica - Universidad de Concepción - Chile
-lab_name: Laboratorio de Dinámica Molecular y Progresión Oncológica
+title: Molecular Dynamics and Oncology Progression Laboratory - Universidad de Concepción - Chile
+lab_name: MDOP-Labs
 author: >
-  Alexis Salas y el Laboratorio de Dinámica Molecular y Progresión Oncológica
+  Alexis Salas and the Molecular Dynamics and Oncology Progression Laboratory
 institution: UDEC 
 email: alsalas@udec.cl
 description: >
-  El Laboratorio de Dinámica Molecular y Progresión Oncológica combina biología molecular, dinámica molecular y metodologías bioinformáticas para comprender la génesis y progresión del cáncer.
+  The Molecular Dynamics and Oncology Progression Laboratory combines molecular biology, molecular dynamics, and bioinformatics methodologies to understand cancer genesis and progression.
 baseurl: ""
 url: "https://nanocell-lab.github.io"
 twitter_username: alsalas7

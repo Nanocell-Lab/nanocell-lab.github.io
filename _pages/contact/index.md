@@ -12,7 +12,7 @@ rank: 7
 ## Open Positions
 **Postdoctoral Fellow -- Integrative Genomic Analysis of Lymphoid Cancers**
 
-The Laboratorio de Dinámica Molecular y Progresión Oncológica is seeking a Postdoctoral Fellow to take a leadership role in an ongoing effort to resolve the molecular aetiology of aggressive lymphoid cancers using genomic techniques. This individual will work closely with a team of bioinformaticians, biostatisticians and clinician-scientists in a highly productive and stimulating research environment at a world-class research facility in Vancouver, Canada.
+The Molecular Dynamics and Oncology Progression Laboratory is seeking a Postdoctoral Fellow to take a leadership role in an ongoing effort to resolve the molecular aetiology of aggressive lymphoid cancers using genomic techniques. This individual will work closely with a team of bioinformaticians, biostatisticians and clinician-scientists in a highly productive and stimulating research environment at a world-class research facility in Vancouver, Canada.
 
 The successful applicant will apply cutting-edge bioinformatic techniques to analyze hundreds of terabytes of high-throughput sequencing data produced from clinical cancer samples, namely RNA-seq (bulk/single cell), whole exome, whole genome, and circulating tumour DNA sequencing data. This position demands a strong background in bioinformatics, computational biology or data science. Detailed knowledge of cancer biology (particularly non-Hodgkin lymphomas) would be an asset.
 
@@ -46,7 +46,7 @@ The successful candidate will report to the laboratory leadership and will be af
 
 Suitable candidates should possess a PhD degree in bioinformatics, computer science, or molecular biology and must be competent in at least one programming language such as Python or R.
 
-Diversity is an integral part of Canadian history, culture, and identity. In the Laboratorio de Dinámica Molecular y Progresión Oncológica, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
+Diversity is an integral part of Canadian history, culture, and identity. In the Molecular Dynamics and Oncology Progression Laboratory, we strive to maintain an equitable and inclusive culture where all forms of diversity are seen as added value in the unifying goal of reducing the impact of cancer.
 
 *Applicants are requested to send a cover letter and CV using the form below*
 

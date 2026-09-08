@@ -1,10 +1,10 @@
-## Laboratorio de Dinámica Molecular y Progresión Oncológica
+## MDOP-Labs
 
 El laboratorio combina biología molecular, análisis de dinámica molecular y metodologías bioinformáticas para el diseño, análisis y validación de hipótesis biológicas.
 
 ### About the Laboratory
 
-With an interdisciplinary approach, the Laboratorio de Dinámica Molecular y Progresión Oncológica develops research on molecular dynamics processes connected to cancer. This work includes data analysis using sophisticated multi-omics classification methods, software development for molecular design applications, molecular characterization in biomarker cell lines, and the study of tumor cell proliferation in relation to their microenvironment. The laboratory has more than ten years of combined experience, technical staff, twelve postgraduate theses, and numerous national and international collaborations.
+With an interdisciplinary approach, the Molecular Dynamics and Oncology Progression Laboratory develops research on molecular dynamics processes connected to cancer. This work includes data analysis using sophisticated multi-omics classification methods, software development for molecular design applications, molecular characterization in biomarker cell lines, and the study of tumor cell proliferation in relation to their microenvironment. The laboratory has more than ten years of combined experience, technical staff, twelve postgraduate theses, and numerous national and international collaborations.
 
 Located in Edificio del Arco second floor of the Department of Pharmacology of the University of Concepción, Chile.
 

@@ -1,95 +1,257 @@
-- name: >
-    Identification Of New Chemical Biomarkers Associated With Molecular Subtypes Of Gastric Cancer Embedded Tissue Of Chilean Patients, Using Untargeted Metabolomics And Spatialomics Analytical Approach
-  description: >
-    Year: 2024. Institution: Universidad de Concepción.
-  funding: FONDECYT REGULAR No. 1241915
-  collaborators: >
-    Bustamante Salazar, L. A.; Mardones Peña, C.; Pérez de Armas, A. J.; Delgado Schneider, C. P.; Salas Burgos, A.
-
-- name: >
-    Despliegue Territorial De Hoja De Ruta Para La Aceleración Del Impacto Sostenible De La Ciencia, Tecnología, Conocimiento E Innovación A Través Del Desarrollo De Consorcios De Investigación
-  description: >
-    Año: 2024. Institución: Universidad de Concepción.
-  funding: NODO ANID No. NODO240003
-  collaborators: >
-    Cabezas, M.; Muñoz, G.; Salas Burgos, A.
-
+# Projects sourced from Postgrado UdeC academic profile for Alexis Marcelo Salas Burgos.
+# Source: https://postgrado.udec.cl/catalogo/academico/alexis-marcelo-salas-burgos
+# Updated: 2026-09-08
 - name: >
     CTCI Para El Desarrollo De Futuros Territoriales Sostenibles
-  description: >
-    Año: 2026. Institución: Universidad de Concepción.
-  funding: NMC ANID No. NMCA250001
-  collaborators: >
+  category: networks
+  category_label: Networks
+  start_year: 2026
+  end_year: 2026
+  program: >
+    NMC ANID No. NMCA250001
+  investigators: >
     Cabezas, M.; Salas Burgos, A.
+  institution: >
+    Universidad de Concepción
+  description: >
+    Proyecto CTCI para el desarrollo de futuros territoriales sostenibles.
 
 - name: >
-    Unraveling The Covalent Binding Mechanism Of Telomerase To Guide The Search For Effective Cancer Inhibitors
+    Evaluating the role of macrophage epigenetic wiring in cancer aging
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2026
+  end_year: 2029
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    EN EJECUCIÓN
   description: >
-    Year: 2024. Institution: Universidad Andrés Bello.
-  funding: FONDECYT REGULAR No. 1241355
-  collaborators: >
-    Jaña Villalobos, G. A.; Uribe Pérez, E. A.; Salas Burgos, A.
+    Proyecto FONDECYT nacional orientado al estudio del cableado epigenético de macrófagos en envejecimiento y cáncer.
 
 - name: >
-    Caracterización Del Efecto Del Orden Temporal De Mutaciones Impulsoras En El Gen Tp53 En La Heterogeneidad Intratumoral Desde Biopsias De Pacientes Con Cáncer Gástrico
+    Interdisciplinary approach to breast cancer in a rural/agricultural context: Integrating environmental, biological, and social determinants in the Maule Region
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2026
+  end_year: 2028
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    EN EJECUCIÓN
   description: >
-    Año: 2024. Institución: Universidad de Concepción.
-  funding: FONDECYT POSTDOC No. FONDECYT3240234
-  collaborators: >
-    Muñoz Maulen, D.; Salas Burgos, A.
+    Proyecto FONDECYT nacional con enfoque interdisciplinario sobre cáncer de mama en contexto rural/agropecuario.
 
 - name: >
-    Caracterización Estructural De Complejos Proteicos Involucrados En Fibrodisplasia Osificante Progresiva (FOP): Desarrollo De Un Modelo Reportero Para Acelerar El Diseño De Una Terapia Específica
+    Caracterización del efecto del orden temporal de mutaciones impulsoras en el gen TP53 en la heterogeneidad intratumoral desde biopsias de pacientes con cáncer gástrico.
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2024
+  end_year: 2027
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    INVESTIGADOR PATROCINANTE
+  status: >
+    EN EJECUCIÓN
   description: >
-    Año: 2022.
-  funding: VRID - MULTIDISCIPLINARIA No. 2021000357MUL
-  collaborators: >
-    Quevedo Langenegger, E. I.; Salas Burgos, A.; Araya Secchi, R.
+    Proyecto FONDECYT nacional sobre el efecto del orden temporal de mutaciones impulsoras en TP53 y la heterogeneidad intratumoral en cáncer gástrico.
 
 - name: >
-    Iscan Integrated Platform: A Friendly, Versatile, And Cost-efficient Mass Genotyping Tool For Global Genetic Characterization At A Population Scale
+    Identification of new chemical biomarkers associated with molecular subtypes of gastric cancer embedded tissue of Chilean patients, using untargeted metabolomics and spatialomics analytical approach
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2024
+  end_year: 2028
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    EN EJECUCIÓN
   description: >
-    Year: 2024. Institution: Universidad de Concepción.
-  funding: FONDEQUIP MAYOR No. EQY220014
-  collaborators: >
-    Ramires, R.; Salas Burgos, A.
+    Proyecto FONDECYT nacional para identificar biomarcadores químicos asociados a subtipos moleculares de cáncer gástrico mediante metabolómica no dirigida y espacialómica.
 
 - name: >
-    Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer’s disease.
+    Unraveling the Covalent Binding Mechanism of Telomerase to Guide the Search for Effective Cancer Inhibitors
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2024
+  end_year: 2028
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    EN EJECUCIÓN
   description: >
-    Year: 2022.
-  funding: FONDECYT No. 1220656
-  collaborators: >
-    Ramírez Sánchez, D.; Salas Burgos, A.
+    Proyecto FONDECYT nacional para estudiar el mecanismo de unión covalente de telomerasa y orientar la búsqueda de inhibidores contra cáncer.
+
+- name: >
+    Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer¿s disease
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2022
+  end_year: 2026
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    CERRADO
+  description: >
+    Proyecto FONDECYT nacional sobre farmacología de sistemas para diseñar ligandos multitarget como alternativas terapéuticas para enfermedad de Alzheimer.
+
+- name: >
+    MOLECULAR PROFILING OF BREAST CANCER: Sequence variation in new hereditary breast cancer, driver and miRNAs genes as biomarkers of predisposition, therapeutics and its role in cell transformation.
+  category: fondecyt
+  category_label: FONDECYT
+  start_year: 2020
+  end_year: 2024
+  program: >
+    FONDECYT NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    CERRADO
+  description: >
+    Proyecto FONDECYT nacional sobre perfilamiento molecular de cáncer de mama y variación genética como biomarcadores de predisposición y transformación celular.
+
+- name: >
+    Fortalecimiento de la Apropiación y Valorización del Nodo CTCI Centro Sur en el Territorio
+  category: networks
+  category_label: Networks
+  start_year: 2022
+  end_year: 2022
+  program: >
+    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+  role: >
+    INVESTIGADOR PRINCIPAL
+  status: >
+    CERRADO
+  description: >
+    Proyecto de redes, estrategia y conocimiento para fortalecer la apropiación y valorización del Nodo CTCI Centro Sur en el territorio.
 
 - name: >
     Nodo CTCI-MCS: Consolidación de la institucionalidad del Nodo CTCI Macrozonal Centro Sur para la Aceleración del Impacto Territorial de la Ciencia Abierta
+  category: networks
+  category_label: Networks
+  start_year: 2022
+  end_year: 2023
+  program: >
+    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+  role: >
+    INVESTIGADOR PRINCIPAL
+  status: >
+    CERRADO
   description: >
-    Año: 2023.
-  funding: ANID No. NODO220006
-  collaborators: >
-    Salas Burgos, A.
+    Proyecto de redes, estrategia y conocimiento para consolidar la institucionalidad del Nodo CTCI Macrozonal Centro Sur.
 
 - name: >
-    Euca-drought: ¿plataforma De Selección De Variedades De Eucalyptus Sp. Tolerantes A Sequía Y De Mayor Eficiencia De Uso De Agua
+    Co-creación de un modelo de Ciencia Abierta en la Macrozona Centro Sur de Chile en concordancia con su territorio y sociedad
+  category: networks
+  category_label: Networks
+  start_year: 2020
+  end_year: 2022
+  program: >
+    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+  role: >
+    INVESTIGADOR PRINCIPAL
+  status: >
+    CERRADO
   description: >
-    Año: 2023.
-  funding: ID23I10390
-  collaborators: >
-    Ulloa Fuentes, J. L.; Hasbun Zaror, R.; Rubilar Pons, R.; Castillo Felices, R.; Salas Burgos, A.
+    Proyecto de redes, estrategia y conocimiento para co-crear un modelo de Ciencia Abierta en la Macrozona Centro Sur de Chile.
 
 - name: >
-    Evaluating The Role Of Macrophage Epigenetic Wiring In Cancer Aging
+    Identificación de moduladores del canal iónico TMC1 como alternativa terapéutica para el tratamiento de la sordera
+  category: internationals
+  category_label: Internationals
+  start_year: 2021
+  end_year: 2022
+  program: >
+    COOPERACIÓN INTERNACIONAL NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    CERRADO
   description: >
-    Year: 2026. Institution: Universidad Católica de la Santísima Concepción.
-  funding: FONDECYT REGULAR No. 1260559
-  collaborators: >
-    Villagra Macaya, A.; Hepp Castro, M.; Salas Burgos, A.
+    Proyecto de cooperación internacional orientado a identificar moduladores del canal iónico TMC1 como alternativa terapéutica para sordera.
 
 - name: >
-    Interdisciplinary Approach To Breast Cancer In A Rural/agricultural Context: Integrating Environmental, Biological, And Social Determinants In The Maule Region
+    Caracterización de condiciones de escalamiento de cepas probióticas de alto interés para la industria alimentaria / farmacéutica y fortalecimiento de sus Insights de Marketing
+  category: others
+  category_label: Others
+  start_year: 2022
+  end_year: 2022
+  program: >
+    APTA (ANDES PACIFIC TECHNOLOGY ACCESS)
+  role: >
+    COINVESTIGADOR
+  status: >
+    CERRADO
   description: >
-    Year: 2026. Institution: Universidad Católica de la Santísima Concepción.
-  funding: FONDECYT REGULAR No. 1262233
-  collaborators: >
-    Zúñiga Venegas, L.; Landeros, N.; Salas Burgos, A.
+    Proyecto APTA sobre escalamiento de cepas probióticas de interés para la industria alimentaria y farmacéutica.
+
+- name: >
+    iScan integrated platform: A friendly, versatile, and cost-efficient mass genotyping tool for global genetic characterization at a population scale
+  category: others
+  category_label: Others
+  start_year: 2022
+  end_year: 2027
+  program: >
+    FONDEQUIP NACIONALES
+  role: >
+    COINVESTIGADOR
+  status: >
+    EN EJECUCIÓN
+  description: >
+    Proyecto FONDEQUIP nacional para una plataforma integrada de genotipificación masiva y caracterización genética poblacional.
+
+- name: >
+    Caracterización clínica y genética de pacientes con distrofia miotónica para evaluar la relación genotipo-fenotipo y desarrollar un modelo de estratificación de los pacientes
+  category: others
+  category_label: Others
+  start_year: 2021
+  end_year: 2023
+  program: >
+    VRID INTERNOS UNIVERSIDAD
+  role: >
+    INVESTIGADOR ALTERNO
+  status: >
+    CERRADO
+  description: >
+    Proyecto VRID interno universitario para caracterizar clínica y genéticamente pacientes con distrofia miotónica.
+
+- name: >
+    V Reunión Anual de la Sociedad Chilena de Bioinformática 2026
+  category: others
+  category_label: Others
+  start_year: 2026
+  end_year: 2026
+  program: >
+    Apoyo VRID
+  investigators: >
+    Salas Burgos, A.; Ramirez Sánchez, D.; Tarifeño Saldivia, E.
+  institution: >
+    Universidad de Concepción
+  description: >
+    Apoyo VRID para la V Reunión Anual de la Sociedad Chilena de Bioinformática 2026.
+
+- name: >
+    NVIDIA Support
+  category: nvidia
+  category_label: NVIDIA
+  start_year: 2024
+  end_year: 2024
+  program: >
+    GPU donations and research/education support
+  role: >
+    COLLABORATION SUPPORT
+  status: >
+    ACTIVO
+  description: >
+    Collaboration with NVIDIA has supported research and education through GPU donations, including Tesla K40 and Titan Xp hardware, and 2024 molecular dynamics simulation courses focused on transporters and rare diseases.
