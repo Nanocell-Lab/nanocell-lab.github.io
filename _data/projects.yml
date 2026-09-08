@@ -23,7 +23,7 @@
   start_year: 2026
   end_year: 2029
   program: >
-    FONDECYT NACIONALES
+    FONDECYT REGULAR No. 1260559
   role: >
     COINVESTIGADOR
   status: >
@@ -38,7 +38,7 @@
   start_year: 2026
   end_year: 2028
   program: >
-    FONDECYT NACIONALES
+    FONDECYT REGULAR No. 1262233
   role: >
     COINVESTIGADOR
   status: >
@@ -53,7 +53,7 @@
   start_year: 2024
   end_year: 2027
   program: >
-    FONDECYT NACIONALES
+    FONDECYT POSTDOC No. FONDECYT3240234
   role: >
     INVESTIGADOR PATROCINANTE
   status: >
@@ -68,7 +68,7 @@
   start_year: 2024
   end_year: 2028
   program: >
-    FONDECYT NACIONALES
+    FONDECYT REGULAR No. 1241915
   role: >
     COINVESTIGADOR
   status: >
@@ -83,7 +83,7 @@
   start_year: 2024
   end_year: 2028
   program: >
-    FONDECYT NACIONALES
+    FONDECYT REGULAR No. 1241355
   role: >
     COINVESTIGADOR
   status: >
@@ -92,13 +92,28 @@
     Explora el mecanismo de unión covalente asociado a telomerasa para orientar el diseño y priorización de inhibidores anticáncer, conectando modelamiento molecular con preguntas sobre selectividad y eficacia farmacológica.
 
 - name: >
+    Despliegue territorial de hoja de ruta para la aceleración del impacto sostenible de la ciencia, tecnología, conocimiento e innovación a través del desarrollo de consorcios de investigación
+  category: networks
+  category_label: Networks
+  start_year: 2024
+  end_year: 2024
+  program: >
+    NODO ANID No. NODO240003
+  investigators: >
+    Cabezas, M.; Muñoz, G.; Salas Burgos, A.
+  institution: >
+    Universidad de Concepción
+  description: >
+    Despliega territorialmente una hoja de ruta para acelerar el impacto sostenible de la ciencia, tecnología, conocimiento e innovación mediante el desarrollo de consorcios de investigación conectados con desafíos regionales.
+
+- name: >
     Towards systems pharmacology to design multi-target directed ligands as therapeutic alternatives for Alzheimer’s disease
   category: fondecyt
   category_label: FONDECYT
   start_year: 2022
   end_year: 2026
   program: >
-    FONDECYT NACIONALES
+    FONDECYT No. 1220656
   role: >
     COINVESTIGADOR
   status: >
@@ -107,13 +122,26 @@
     Aplica farmacología de sistemas para diseñar ligandos dirigidos a múltiples blancos como alternativas terapéuticas para la enfermedad de Alzheimer, integrando relaciones moleculares complejas en la priorización de candidatos.
 
 - name: >
+    Caracterización estructural de complejos proteicos involucrados en Fibrodisplasia Osificante Progresiva (FOP): desarrollo de un modelo reportero para acelerar el diseño de una terapia específica
+  category: others
+  category_label: Others
+  start_year: 2022
+  end_year: 2022
+  program: >
+    VRID - MULTIDISCIPLINARIA No. 2021000357MUL
+  investigators: >
+    Quevedo Langenegger, E. I.; Salas Burgos, A.; Araya Secchi, R.
+  description: >
+    Caracteriza complejos proteicos asociados a fibrodisplasia osificante progresiva para apoyar el desarrollo de un modelo reportero que acelere la evaluación racional de estrategias terapéuticas específicas.
+
+- name: >
     MOLECULAR PROFILING OF BREAST CANCER: Sequence variation in new hereditary breast cancer, driver and miRNAs genes as biomarkers of predisposition, therapeutics and its role in cell transformation.
   category: fondecyt
   category_label: FONDECYT
   start_year: 2020
   end_year: 2024
   program: >
-    FONDECYT NACIONALES
+    FONDECYT No. 1200049
   role: >
     COINVESTIGADOR
   status: >
@@ -128,7 +156,7 @@
   start_year: 2022
   end_year: 2022
   program: >
-    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+    ANID No. NODO210005
   role: >
     INVESTIGADOR PRINCIPAL
   status: >
@@ -143,7 +171,7 @@
   start_year: 2022
   end_year: 2023
   program: >
-    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+    ANID No. NODO220006
   role: >
     INVESTIGADOR PRINCIPAL
   status: >
@@ -152,13 +180,26 @@
     Consolida la institucionalidad del Nodo CTCI Macrozonal Centro Sur para acelerar el impacto territorial de la ciencia abierta, promoviendo coordinación entre actores y una agenda compartida de conocimiento aplicado.
 
 - name: >
+    Euca-drought: ¿plataforma de selección de variedades de Eucalyptus sp. tolerantes a sequía y de mayor eficiencia de uso de agua
+  category: others
+  category_label: Others
+  start_year: 2023
+  end_year: 2023
+  program: >
+    No. ID23I10390
+  investigators: >
+    Ulloa Fuentes, J. L.; Hasbun Zaror, R.; Rubilar Pons, R.; Castillo Felices, R.; Salas Burgos, A.
+  description: >
+    Desarrolla una plataforma para apoyar la selección de variedades de Eucalyptus sp. con mayor tolerancia a sequía y eficiencia en el uso de agua, vinculando criterios productivos, ambientales y biotecnológicos.
+
+- name: >
     Co-creación de un modelo de Ciencia Abierta en la Macrozona Centro Sur de Chile en concordancia con su territorio y sociedad
   category: networks
   category_label: Networks
   start_year: 2020
   end_year: 2022
   program: >
-    REDES, ESTRATEGIA Y CONOCIMIENTO NACIONALES
+    ANID, Proyecto NODO20006 – Macrozona Centro Sur
   role: >
     INVESTIGADOR PRINCIPAL
   status: >
@@ -173,7 +214,7 @@
   start_year: 2021
   end_year: 2022
   program: >
-    COOPERACIÓN INTERNACIONAL NACIONALES
+    ANID No. FOVI210027
   role: >
     COINVESTIGADOR
   status: >
@@ -203,7 +244,7 @@
   start_year: 2022
   end_year: 2027
   program: >
-    FONDEQUIP NACIONALES
+    FONDEQUIP MAYOR No. EQY220014
   role: >
     COINVESTIGADOR
   status: >
@@ -218,7 +259,7 @@
   start_year: 2021
   end_year: 2023
   program: >
-    VRID INTERNOS UNIVERSIDAD
+    VRID - MULTIDISCIPLINARIA
   role: >
     INVESTIGADOR ALTERNO
   status: >
